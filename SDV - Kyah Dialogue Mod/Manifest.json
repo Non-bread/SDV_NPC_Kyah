@@ -1,0 +1,12 @@
+{
+  "Name": "Kyah - Dialogue Mod",
+   "Author": "lilbreadcrumbs", 
+   "Description": "Kyah is an NPC who replaces Abigail with new sprites, portraits, and dialogue for her and the other NPCs",
+   "Version": "0.1.0", 
+   "UniqueID": "lilbreadcrumbs.Kyah_Dialogue_Mod",
+ 
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher",
+       "MinimumVersion": "1.19.0"
+    },
+}

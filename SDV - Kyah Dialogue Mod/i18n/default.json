@@ -1,0 +1,763 @@
+{
+	///////////////////////////////
+	//Kyah Pre marriage Dialogue
+	///////////////////////////////
+	
+	"MixedDialogueMod.Abigail.Introduction.1": "Oh, you're new.$b#I'm Kyah.",
+	
+	"MixedDialogueMod.Abigail.danceRejection.1": "That's flattering... but I'm gonna have to say no. Sorry.#$e#It's not you trust me.",
+	
+	"MixedDialogueMod.Abigail.breakUp.1" : "Oh... Wait! I thought we were... that we had a thing? That you were the same as me. Was it all in my head?$s#$b#I guess we weren't really a good match...$s",
+	
+	"MixedDialogueMod.Abigail.secondChance_Girls.1" : "*sigh*... I can't stay mad at you anymore, @. You're the only one who gets that side of me.$s#$b#Let's just move on with our lives.$s",
+	
+	"MixedDialogueMod.Abigail.Mon.1": "Oh, hey. Taking a break from work?#$e#I'm kinda always taking them lately. I get out of breath so easily",
+	
+	"MixedDialogueMod.Abigail.Mon2.1": "Oh, hi!#$e#Do you ever hang out at the cemetery? It's a peaceful place to spend some time alone.#$e# It's a quiet place. I find to be quite spiritually #$b# filling$4",
+	"MixedDialogueMod.Abigail.Mon2.2": "Oh, hi!#$e#Do you ever hang out at the cemetery? It's a peaceful place to spend some time alone snacking.",
+	
+	"MixedDialogueMod.Abigail.Mon4.Jarlewski": "Honest question, @... do you think my Mom is right about me being too fat?#$q 11/12 Mon_old#Do you think I'd look better if I lost some weight?#$r 11 0 Mon_11#Yes. You have such a pretty face.#$r 12 20 Mon_12#No, it's not what you want.#$r 11 20 Mon_great#No, you look great.#$r 12 50 Mon_gain#Uh, why not try the opposite?",
+		"MixedDialogueMod.Abigail.Mon_old.Jarlewski": "$p 11# Wow, go screw you.$3|Oh. Okay.",
+		"MixedDialogueMod.Abigail.Mon_11.Jarlewski": "Wow. Thanks, jerk.",
+		"MixedDialogueMod.Abigail.Mon_12.Jarlewski": "Yeah, that's right. It isn't.#$b#Thanks, @.",
+		"MixedDialogueMod.Abigail.Mon_great.Jarlewski": "Oh... uh... thank you.$4",
+		"MixedDialogueMod.Abigail.Mon_gain.Jarlewski": "Wow. Uh... No one has ever really said that to me before.$4#$b#Do you think you'd be interested in... helping out?#$b#%Abigail runs her hand down her side, from the top of her chest to the bottom of her belly. She gives her chub a little squeeze and winks at you.",
+
+	
+	"MixedDialogueMod.Abigail.Mon8": "",
+
+	"MixedDialogueMod.Abigail.Tue.1": "Ugh... I'm not in a good mood right now.$s#$e#I said I'm not in a good mood... what do you want?$a",
+	"MixedDialogueMod.Abigail.Tue.2": "Ugh... I'm not in a good mood right now.",
+	"MixedDialogueMod.Abigail.Tue.3": "Ugh...#$e#Sorry. I'm not in a good mood right now.$2#$e#What?$2#$e#I said I'm not in a good mood today, so what the hell?$3",
+	
+	"MixedDialogueMod.Abigail.Tue2.1": "...*sigh*...$s#$e#I know my parents mean well, but sometimes they just cannot understand my point of view. Weren't they ever young?",
+	
+	"MixedDialogueMod.Abigail.Tue4.1": "Hi, I'm glad to see you.$h#$e# I want to take my mind off things for a while...How much food have you grown on your Farm?$0#$e# Do you have any samples?$4",
+	"MixedDialogueMod.Abigail.Tue4.2": "Hi, I'm glad to see you.$h#$e#I want to take my mind off things for a while, my dad has been badgering me about my weight again.$s#$e#... how is your day going?",
+	"MixedDialogueMod.Abigail.Tue4.3": "You came over here to visit me?#$b#Thanks. That was nice of you.$1#$e#So, what kind of music do you like?#$b#My favorite band at the moment is Run the Dews. They've got the best beats, the dopest lyrics, and I love that they did a benefit concert for the Junimos.#$e#And who of us hasn't wondered if Yoba Himself could make an ass so fat that not even He could saddle up and ride?$1",
+	
+	"MixedDialogueMod.Abigail.Tue6.1": "I've only dated one person seriously before.#$e#She... she was kind of a jerk. She treated me more like a fetish than a person.$2#$e#Can you believe they kept asking me what my goal was? Like, my weight gain goal for the relationship?$5#$e#I'm fat! I just want to be fat. I'm always going to be fat. My goal is to eat as much delicious food as I can while not getting hassled by my family or judged by society.#$e#I don't care what a scale says any more than I care what Alex has to say about how fat I am...$2",
+	
+	"MixedDialogueMod.Abigail.Tue8.Male": "Once I made it to high school, I spent most of my time hanging out with Sebastian.#$b#He's older than me, but we like the same music, so we kinda ended up as friends.#$e#That, and we started defending each other's eating habits at lunch. When Alex or some jerk would try to call us out as being unhealthy or whatever, we'd stand up for one another.#$e#That made me feel like it was easier to be me.#$e#But once they graduated, it was just me and Sam. And Sam...$6#$b#Well, Sam's kind of a idiot. And they're almost certainly a fairweather fatty lover.#$e#Sorry. I don't know why I remembered that, but sometimes, I get in these moods where I think about high school. Do you ever get that?$6",
+	"MixedDialogueMod.Abigail.Tue8.Female": "Once I made it to high school, I spent most of my time hanging out with Sebastion.#$b#He's older than me, but we like the same music, so we kinda ended up as friends.#$e#That, and we started defending each other's eating habits at lunch. When Alex or some jerk would try to call us out as being unhealthy or whatever, we'd stand up for one another.#$e#That made me feel like it was easier to be me.#$e#But once they graduated, it was just me and Sam. And Sam...$6#$b#Well, Sam's kind of a idiot. And they're almost certainly a fairweather fatty lover.#$e#Sorry. I don't know why I remembered that, but sometimes, I get in these moods where I think about high school. Do you ever get that?$6",
+	
+	"MixedDialogueMod.Abigail.Wed.1": "Hey. Sorry in advance if I say anything rude. I didn't get much to sleep last night.#$e# Why? I was hungry? What do you want!? $5",
+	"MixedDialogueMod.Abigail.Wed.2": "Hey.#$e#I don't know about you, but I got some real crap sleep last night.$2#$e#Sorry if I seem a little off.$2",
+	
+	"MixedDialogueMod.Abigail.Wed2.1": "Oh, hi @. Taking a break from your work?#$e# Me too. Oh! Nothing physical... just some online classes I'm taking. It's SO nice! #$b# You can eat in class, and it's nice not having to squeeze into a pair of pants. $0",
+	"MixedDialogueMod.Abigail.Wed2.2": "Oh, hi @. Taking a break from your work?#$e#Me too. Oh! Nothing physical... just playing some games online and snacking!$h",
+	
+	"MixedDialogueMod.Abigail.Wed8.1": "My appetite has been creeping up lately.#$e#I had dinner with the family last night, went to grab a snack at the saloon and finished off some cake before bed.#$e#And then, for breakfast this morning, I had two everything bagels with cream cheese.#$b#Mmm, cream cheese.#$e#I'd say that's my latest weakness.$1",
+	"MixedDialogueMod.Abigail.Wed8.2": "My appetite has been creeping up lately.#$e#I had dinner with the family last night, went to grab a snack at the saloon and finished off some chocolate before bed.#$e#And then, for breakfast this morning, I had two everything burritos with cream cheese.#$b#Mmm, cream cheese.#$e#I'd say that's my latest weakness.$1",
+	
+	"MixedDialogueMod.Abigail.Wed10": "Putting on weight like this makes me feel confident.#$b#It might sound weird, but when I see that I'm gaining, it helps me embrace my curves, stretchmarks, crevices, rolls... and it just... sends this jolt of excitement down my spine.#$e#I love seeing progress. I love the feeling of fat. I love grabbing a handful of my pudge and giving my belly a good shake.#$e#I know I've wanted to be fat my whole life, and this is the first time I've felt... this kind of sexy. It's like an overwhelming pleasure sensation of wanting and needing to be more plush.#$e#So... got any cake on you?$4",
+	
+	"MixedDialogueMod.Abigail.Thu.1": "#$1 Abigail1#Oh no, I think my Dad's going to cook dinner tonight...$s#$e#I don't feel like doing anything today...$u#$e#My dad always cooks really healthy stuff...Nothing with taste or flavour.$s",
+	"MixedDialogueMod.Abigail.Thu.2": "Yeah, I've got a pet guinea pig.#$e#His name is David.#$e#I'm doing my best to keep him safe from the knowledge that guinea pigs were domesticated to be teeny tiny livestock.#$e#But you can never really predict what sort of things they'll see on the Internet these days, you know?",
+	
+	"MixedDialogueMod.Abigail.Thu10.1": "ohhhh...Hi.$4#$e# Have you had a full-filling day today? Because I sure have!$l#$b# I'm so happy that I feel like I could just burst!$4#$b#% Her belly looks completley overengorged. $b#$e#% You tease her by grabbing each side of her belly and shake it. #$b#  OHHHH!!$9#$b# Ahhhh what are you doing!!!!$7#$b# HEY, WHAT THE HELL ARE YOU DOING...$5#$b# You know how I feel, when I'm on edge? $4#$e#% You begin to grasp, pinch, and roll her belly as her entire body shudders. #$b#% She struggles to surpress her arrousal, but lets out a deep moan.#$b# Can't hold it in...anymore!$7#$b# Ahhhhh$7#$b#% Suddenly her belly swells out to it's full size. Your excitement cannot stay hidden any longer.#$b# OHHHHHH!!$9#$b# SO YOU DO FEEL THE SAME WAY I DO!$1#$e#  That's is just what I wanted to findout!$1#$b# Put a necklace on me, and I'll rub you EVERYWHERE with EVERYTHING!$4",
+	
+	"MixedDialogueMod.Abigail.Fri.1": "Wow, I just realized it's Friday. $u#$e#Sometimes I totally lose track of time. $h#$e# It's cheat day! I actually get to eat something I like. So I always make sure to get something large and filling.$1",
+	"MixedDialogueMod.Abigail.Fri.2": "Wow, I just realized it's Friday. $u#$e#Sometimes I totally lose track of time.#$e#When it's the weekend I end up eating so much I can surprise myself sometimes!$h",
+	
+	"MixedDialogueMod.Abigail.Fri2.1": "We're all going to hang out in the saloon this evening. It's kind of like a friday tradition, I guess. $h#$e# The best part is getting seconds and thirds! $1#$e# And forths and fifths. $4",
+	"MixedDialogueMod.Abigail.Fri2.2": "We're all going to hang out in the saloon this evening. It's kind of like a friday tradition, I guess.#$e#Gus is a bit annoyed with me right now, seeing as how I broke two of his bar-stools before...$s#$e#Hey! It's not my fault they don't make bar stools that can hold women of my... size.$h",
+	"MixedDialogueMod.Abigail.Fri2.3": "Great. My mother's on me to lose some weight... again.$6#$e#She doesn't get it that it's not my thing to be some skinny thing. I'm more of a 'live slow, get soft' kinda girl.#$e#Ugh. I'd rather put the die in diet than listen to her hypocritical lecture...$6",
+	
+	"MixedDialogueMod.Abigail.Fri4.1": "Penny asked me how I'm so confident... I know she's had a hard time lately, but I didn't know what to say.$2#$e#I love how I look. I love gaining weight and eating... It's not like I woke up and was suddenly 100 pounds heavier - I purposely chose to be fat. And I really love it. It makes me feel sexy.#$e#I... I wish I had something better to tell her, but maybe there's no secret to it?$2",
+	
+	"MixedDialogueMod.Abigail.Fri6.1": "Sure, being fat has its ups and downs.#$e#People are total jerks sometimes, for example.$a#$b#And the chub rub on a hot day? Sucks.$2#$e#But I need to be able to be open and honest with people about who I am and what I want. I'm not the most confident person in the world, but I love it... I love being fat.#$e#Why would I ever want to hide that from anyone?#$e#Why would anyone?",
+	"MixedDialogueMod.Abigail.Fri6.2": "People are total jerks sometimes.#$e#For example, Alex called me a cow yesterday.$a#$b# I don't mind being as big as I am but I just want to feel accepted, y'know?$2$e# ",
+	
+	"MixedDialogueMod.Abigail.Fri10.1": "*oof* I need to rest for a while.$3#$e#Mom made spicy lobster bisque and pink cake and chocolate pudding... I feel I can barely move...$2#$b#%You put your hand on Abigail's stomach - it's packed solid. She winces for a moment, but doesn't tell you to do anything. You begin to rub her belly, and she closes her eyes and begins to breathe deeply. After a minute, Abigail takes your hand and puts it up under her shirt, running her fingers across her bare skin with yours. You take the hint and hug her from behind, using both hands to massage her swollen stomach.#$e#Gentle...$4#$b#%Abigail rubs her giant ass against you, wobbling her belly as she does so. Her leggings are so tight, they feel like a second skin pulled taut over every inch of her huge thighs and expansive ass. You get close to one another, but Abigail whispers something.#$e#...Cake. I should probably get seconds.$4",
+	
+	"MixedDialogueMod.Abigail.Sat.1": "The fresh mountain air is nice on a day like this.$h#$e# The way it just seems to FILL your body can feel SO erotic...$4#$b# IMEANEXOTIC!. It feels exotic! $7#$e# Feeling full wouldn't be Erotic. that would just be...weird....$3#$b# Right? $5",
+	
+	"MixedDialogueMod.Abigail.Sat8.1": "I will never understand why other women complain about me being fat.$6#$e#Like, you can spend all of your time focusing on other people's crap, or you can power walk on through life with a donut on your lips and three dozen more on your hips.#$e#But I guess you flirting with me all of the time doesn't help, does it?$4#$e#It's every girl's dream to be rocking 600 pounds with some hot arm candy like you...$4",
+	
+	"MixedDialogueMod.Abigail.Sat10.1": "Heya, @.#$b#%Abigail takes a few steps closer to you, and you can hear how heavily she's breathing. It looks like she's gained another ten pounds at least. Her gray undershirt is showing through the gaps between her vest's buttons, and a little bit of skin is peaking out between her top and her impossibly wide hips.#$b#You okay, @? You look like you're going to pass out.$1#$e#Aww, I'm messing with you. You know that if you fell over, you'd land on something soft.$4",
+	
+	"MixedDialogueMod.Abigail.Sat6.1": "You came all this way to visit me? That's nice.$h#$e#So have you been exploring the mountain caves at all?$b#$e# Interesting. If you find any stashes of food, Don't touch them. $5#$b# They are my secret treats for my belly $4!",
+	"MixedDialogueMod.Abigail.Sat6.2": "You came all this way to visit me? That's nice.$h#$e#So have you been exploring the mountain caves at all?#$e#Interesting. I'd like to go there myself one of these days.$l#$e#Although at this rate I won't even be able to fit in them soon!$h",
+	
+	"MixedDialogueMod.Abigail.Sun.1": "Oh man... I've been pushing off my homework all weekend. Looks like I'll be pulling another all-nighter...$s#$e# I better go get some snacks. $0",
+	"MixedDialogueMod.Abigail.Sun.2": "Oh man... I've been pushing off my homework all weekend. Looks like I'll be pulling another all-nighter...$s#$e#I'll need to grab some high-sugar junk food to keep me up!$h",
+	
+	"MixedDialogueMod.Abigail.Sun2.LLeah": "I wonder what would happen if I spent all night in the graveyard?#$q 17/18 Sun_old#@, What do you think happens to us after we die?#$r 17 0 Sun_17#I have no idea.#$r 18 40 Sun_18#We come back as spooky ghosts.#$r 17 0 Sun_17#We go to Heaven. where we can eat all you want for Eternity.#$r 18 0 Sun_17#Our energy bodies enter the astral plane.#$r 17 30 Sun_nothing#Nothing. We just cease to exist.",
+		"MixedDialogueMod.Abigail.Sun_old.LLeah": "$p 17#I guess you think nothing would happen, right?$u|Maybe a wicked ghost would appear!",
+		"MixedDialogueMod.Abigail.Sun_17.LLeah": "OOHHHH...That sounds like a true paradise! $4",
+		"MixedDialogueMod.Abigail.Sun_18.LLeah": "Well that's an interesting theory!$h",
+		"MixedDialogueMod.Abigail.Sun_nothing.LLeah": "You know, that wouldn't be so bad.$8",
+	
+	
+	"MixedDialogueMod.Abigail.Event_Grave1.Original" : "See? You understand me, these urges. That's why you took over the farm, right? A feeder's paradise.#$b#I want to never stop eating. I want to grow and swell with all the food in the valley. Mmm, could you imagine me that huge?$4",
+	"MixedDialogueMod.Abigail.Event_Grave2.Original" : "Not even a little? Thanks, @. You've always been sweet to me.#$b#Yeah, everyone has their quirks. Mine just happens to require a new wardrobe every few months.$h",
+	"MixedDialogueMod.Abigail.Event_Grave3.Original" : "What does it matter to you what I do with my body? Why is everyone obsessed with my diet and my weight?!$a#$b#I'm capable of making my own decisions, mistakes or not.$a#$b#Screw everyone and their opinions. It's my choice, and I say I'm going to outeat the Gotoro army.$8",
+	"MixedDialogueMod.Abigail.Event_Grave4.Original" : "You know what? You're right! Thank you, @.#$b#I want to stuff myself to the brink of bursting like a fat balloon and I'm not ashamed of it.$4",
+	
+	"MixedDialogueMod.Abigail.Event_Grave1.LargeLeah": "See? You understand me, these urges. That's why you took over the farm, right? A feeder's paradise.#$b#I want to never stop eating. I want to grow and swell with all the food in the valley. Could you imagine me growing that huge?$0#$b# So fat, that all I can do is just eat more and more everyday! Just stuffing myself, bigger and bigger and bigger and...$1#$b# BIGGER!$7#$b# Ooooh Yoba, I want to stuff myself to the brink of bursting like a big FAT PIG!$4#$b# By Yoba, I'm wet just thinking about it!$7#$b# It just feels so WONDERFUL being SO FULL. So LIBERATING being so fat!$3#$b# I know how it sounds, but it just... feels so RIGHT!!!$2#$b# Oh @, there has to be something horribly wrong with...$2#$b# *She goes silent when looks at you.*$3#$b# *Your face is red, and breathing is heavy. Your body trembles.*$6#$b# Aware of your arousal, her nipples begin to harden under her top. A wry smile appears accross face. Her voice grows deeper as she eyes you hungrily.$4#$b# Maybe, there is nothing wrong with me at all. Maybe, I just need to find the right person. $4#$b#  By the look on your face, @.  I'd say I'm not the only one who LIKES my body the way it is.$1#$b# Come on down here, I can't handle ALL THIS BELLY by MYSELF! $4 ",
+	"MixedDialogueMod.Abigail.Event_Grave2.LargeLeah": "Not even a little? Thanks, @. You've always been sweet to me.#$b#Yeah, everyone has their quirks. Mine just happens to require a new wardrobe every few months.$h",
+	"MixedDialogueMod.Abigail.Event_Grave3.LargeLeah": "What does it matter to you what I do with my body? Why is everyone obsessed with my diet and my weight?!$a#$b#I'm capable of making my own decisions, mistakes or not.$a#$b# Screw everyone and their opinions. It's my choice, and I say I'm going to outeat the Gotoro army, and be twice as big!.$8",
+	"MixedDialogueMod.Abigail.Event_Grave4.LargeLeah": "You know what? You're right! Thank you, @.#$b#I want to stuff myself to the brink of bursting like a fat balloon and I'm not ashamed of it.$4",
+	
+	"MixedDialogueMod.Abigail.Event_Grave1.FatPone": "Pfft...Okay, you perv.#$b#I...thanks though. It makes me feel a lot better.$4",
+	"MixedDialogueMod.Abigail.Event_Grave2.FatPone": "...Thanks, @. You've always been sweet to me.#$b#Yeah, everyone has their quirks. Mine just happens to require a new wardrobe every few months.$h",
+	"MixedDialogueMod.Abigail.Event_Grave3.FatPone": "W-Well fuck you!$a#$b#I mean, I thought you were different, @!$a#$b#But you're just another judgemental asshole. Like everyone else!$8",
+	"MixedDialogueMod.Abigail.Event_Grave4.FatPone": "You know what? You're right! Thanks, @.#$b#I want to stuff myself to the brink of bursting and damn the consequences!$4",
+	
+	
+	"MixedDialogueMod.Abigail.Event_Cave_1.Original": "... Okay.$8",
+	"MixedDialogueMod.Abigail.Event_Cave_2.Original": "I guess when you have something to lose, it's normal to be afraid...$l",
+	"MixedDialogueMod.Abigail.Event_Cave_3.Original": "... I hadn't thought about that.$8#$b#Yeah, I probably would've gotten stuck in the shaft trying to climb down. *chuckle*$h",
+	
+	"MixedDialogueMod.Abigail.Event_Cave_1.LargeLeah": "...I'd love that...$4#$b#, but when I'm stuffing myself I just $3#$b#...I DON'T KNOW HOW YOU FEEL ABOUT ME!!$7#$b# *sobs* $2",
+	"MixedDialogueMod.Abigail.Event_Cave_2.LargeLeah": "I won't...$5#$b#Overeating is the thing I love most.$3#$b# I was always sad and alone, but food helped fill the void.$2#$b# Nobody understands!$7#$b# Why can't anybody understand that! $2",
+	"MixedDialogueMod.Abigail.Event_Cave_3.LargeLeah": "...Because I'm upset you JERK!$5",
+	
+	"MixedDialogueMod.Abigail.Event_Cave_1.CombinationMod": "...Oh...Oh @!$l",
+	"MixedDialogueMod.Abigail.Event_Cave_2.CombinationMod": "Oh... I guess I did...$s",
+	"MixedDialogueMod.Abigail.Event_Cave_3.CombinationMod": "Wow. Could you be any more rude? $a",
+	
+	"MixedDialogueMod.Abigail.Event_Cave2_1.LargeLeah": "@...my snacks are ruined...$3",
+	"MixedDialogueMod.Abigail.Event_Cave2_2.LargeLeah": "@... No, I'm NOT!$7",
+
+	"MixedDialogueMod.Abigail.summer_Mon.1": "My pet guinea pig, David, just hates this hot weather. He's fussy.#$e#... Why are you looking at me like that?",
+	"MixedDialogueMod.Abigail.summer_Mon.2": "I sometimes envy the pigs and animals at marnies farm. All they do is eat all day then sleep#$e#... Why are you looking at me like that?$s",
+	
+	"MixedDialogueMod.Abigail.summer_Mon8.1": "I used to think Pelican Town was kinda drab, but lately I'm starting to love some things about it.$h#$b# All the food tastes better and I'm feeling more FULL-FILLed.$4#$b# The fact that I'm eating more, and getting fatter, has really improved my outlook! $1",
+	
+	"MixedDialogueMod.Abigail.summer_Tue.1": "The air is so thick with honey and nectar all summer. I almost feel like I'm starving.$u",
+	"MixedDialogueMod.Abigail.summer_Tue.2": "The air is so thick with honey and nectar all summer. I could do with something sweet right now.",
+	
+	"MixedDialogueMod.Abigail.summer_Tue6.1": "Ick. My legs are sticking together in this heat.",
+	"MixedDialogueMod.Abigail.summer_Tue6.2": "Ick. My arms are all sweaty in this heat.",
+
+	"MixedDialogueMod.Abigail.summer_Tue10.1": "Ick. My legs are sticking together in this heat.#$b# What's with that look?$6",
+	"MixedDialogueMod.Abigail.summer_Tue10.2": "Ick. My arms are all sweaty in this heat.#$b# What's with that look?$6",
+	
+	"MixedDialogueMod.Abigail.summer_Wed.1": "Have you decorated your house at all? That's what I'd be doing if I had a house.#$e# It would be so nice, #$b# I could eat whatever I want, and do anything I want like eat as much as I want! $1#$b#",
+	
+	"MixedDialogueMod.Abigail.summer_Wed8.1": "Have you decorated your house at all? That's what I'd be doing if I had a house.#$e# It would be so nice, #$b# I could eat whatever I want, and do anything I want like walking around the house with no clothes on! $6#$b#",
+	
+	"MixedDialogueMod.Abigail.summer_Thur.1": "I enjoy exploring the caves by the mountain lake.#$e#I should really do it more, but it's such a trek.",
+	"MixedDialogueMod.Abigail.summer_Thur.2": "I enjoy exploring the caves by the mountain lake.#$e#I can't really get far though.#$b#I'm scared of all the monsters that lurk there.",
+	
+	"MixedDialogueMod.Abigail.summer_Thu4.1": "I wish I was exploring those caves by the mountain lake right now. It's so cool, and I love the experience of a REALLY fulfilling adventure!$0",
+	"MixedDialogueMod.Abigail.summer_Thu4.2": "If I knew how to use a sword I would be exploring deeper into those caves by the mountain lake. It's probably nice and cool in there.#$e#Then again, I think I'd get tired really quickly and at my size? I think I'd be stuck really easily$h#$e#That's kinda fun to think about though I think, just the idea of being so big to clog up a cave passage.$b",
+	
+	"MixedDialogueMod.Abigail.summer_Thu8.1": "Ew, I hope I don't get a tan this summer.$s#$e#Sunblock gets too expensive when you're as big as me.$s",
+	"MixedDialogueMod.Abigail.summer_Thu8.2": "Ew, I hope I don't get a tan this summer.$s#$e#I mean, have you seen the price of sunblock lately?!$sI'd rather put that money towards food anyways.$k",
+	"MixedDialogueMod.Abigail.summer_Thu8.3": "Ew, I hope I don't get a tan this summer.$s#$e#I don't think I tan all that well and all that sweating in the sun#$e#Sunblock gets too expensive when you're as big as me.$s",
+	
+	"MixedDialogueMod.Abigail.summer_Fri.1": "Hey do you want to grab a bit to eat?#$e#I got a whole load of junk food just waiting to be devoured in my room...",
+	
+	"MixedDialogueMod.Abigail.summer_Fri10.1": "Do you ever get lonely on your farm? $2#$b# I wish you could see a lot more of me! If you catch my drift.$4",
+	"MixedDialogueMod.Abigail.summer_Fri10.2": "Do you ever get lonely on your farm? #$e#I could maybe join you for dinner out there one day if you're up for it!$l#$e#Don't worry, I'll try not eat you out of your farm.$h",
+	
+	"MixedDialogueMod.Abigail.summer_Sat.1": "I'm looking forward to fall... the cool mountain breeze, the swirling red petals, the smell of mushrooms... *sigh*#$e#No more excessive sweating like in Summer...$s",
+	
+	"MixedDialogueMod.Abigail.summer_Sat6.1": "I'm actually enjoying myself this summer.$h#$e#It's funny how quickly one's outlook can change.$0#$b# Especially when you're not as hungry all the time! $4",
+	"MixedDialogueMod.Abigail.summer_Sat6.2": "I'm actually enjoying myself this summer.$h#$e#It's funny how quickly one's outlook can change.#$e#Then again, it may be because the breeze today is stopping me from over-heating!$h",
+	
+	"MixedDialogueMod.Abigail.summer_Sun6.1": "Wow, you look nice today.#$e#I mean, that summer air is really good for the complexion, isn't it?... heh...$l#$e# I now know it feels AMAZING when my belly is STUFFED FULL of cold treats!$1#$b# Emily brought me a ton of ice cream on the beach. I just thought you should know.$4",
+	
+	"MixedDialogueMod.Abigail.summer_Sun10.1": "Wow, you look nice today.#$e#I mean, that summer air is really good for the complexion, isn't it?... heh...$l#$e#Maybe I could give trying to tan myself a chance, it would require you to lotion me. All. Over...$l#$e#Hfff... Thank you, I have a really hard time reaching my back for... obvious reasons.$5",
+	"MixedDialogueMod.Abigail.summer_Sun10.2": "Wow, you look really good today.#$e#I mean, that summer air is doing wonders for you, right?... heh...$l#$e#Maybe getting a tan myself wouldn't be so bad. Although, it would require you to lotion me. All. Over...$l#$e#What do you mean why?$7#$b#I have a really hard time reaching my back for... obvious reasons.$5",
+	
+	"MixedDialogueMod.Abigail.fall_Mon.1": "I need to stretch my legs and get some fresh air today.#$b#On second tought, maybe a quick breather would be a good idea.",
+	"MixedDialogueMod.Abigail.fall_Mon.2": "I need to stretch my legs. It's so much nicer now that I'm not dying of heat stroke!",
+	"MixedDialogueMod.Abigail.fall_Mon.3": "I need to stretch my legs and get some fresh air today.#$e#Not too much fresh air and exercise though!$h",
+	
+	"MixedDialogueMod.Abigail.fall_Mon8.1": "You know, I could actually see myself becoming a farmer someday...$3#$e#Something about endless fields of food stretching out in all directions seems...so wonderfull *chuckle*$l#$e# You know what I mean! Right?$4",
+	"MixedDialogueMod.Abigail.fall_Mon8.2": "You know, I could actually see myself living on a farm some day...#$e#But how would that ever happen? *chuckle*$l#$e#I don't think I'd be able to help myself with all the food on hand!$h",
+	
+	"MixedDialogueMod.Abigail.fall_Tue.1": "$d joja#Dad forbids me from buying from Joja but to be honest, I love their selection of chocolate!|The one thing I will miss about Joja would have to be the sweets aisle...$s$e#Please don't tell my dad I said that...",
+	
+	"MixedDialogueMod.Abigail.fall_Tue4.1": "I may fight with my parents a lot, but I know they're just looking out for me. They're doing what they think is best.$s#$e#I mean, I really do like being this size and I don't think I'm going to regret it...$s#$b#I dunno why I'm saying this to you. Don't tell anyone.$8",
+	
+	"MixedDialogueMod.Abigail.fall_Tue8.1": "$d joja#Dad used to let me pinch sweets from the stock room before Joja Mart came to town. Now we can't afford it.$s|Dad's been letting me eat non-stop ever since Joja Mart shut down! Thank you!$h",	
+	
+	"MixedDialogueMod.Abigail.fall_Wed.1": "I can't wait to eat some pumpkins this year. They are so filling! $h#$e#The spirit's eve festival happens at the end of the season. It's pretty low-key compared to what you'd see in Zuzu City, but for a small town like this it's a lot of fun.",
+	
+	"MixedDialogueMod.Abigail.fall_Wed4.1": "Are you growing pumpkins on your farm this year?#$e#Save me three!$h",
+	"MixedDialogueMod.Abigail.fall_Wed4.2": "Are you growing pumpkins on your farm this year?#$e#Save one for me!$h#$e#Pumpkins remind me of myself so much. All big and round.$h",
+	
+	"MixedDialogueMod.Abigail.fall_Thu.1": "#$1 AbigailHAND#Last night I dreamt that my left hand had turned into a gigantic %noun and I ate it. Does that mean anything?#$e#%Abigail doesn't seem to be interested in talking right now.",
+	
+	"MixedDialogueMod.Abigail.fall_Thu10.1": "I had an interesting dream last night, with you and a lot of chocolate in it.#$e#It was a good dream.$h",
+	"MixedDialogueMod.Abigail.fall_Thu10.2": "I had a weird dream last night. $h#$b# My parents came into my room in the middle of the night... carrying the largest 7 layer cake I'd ever seen.$0#$b# Each layer was big enough to be decorated with multiple pumpkins.$1#$b# They said that if I wanted Belly to be BIG fine. But they'd make her SO FAT, That I could never move.$7#$e# They force feed me piece after piece, Causing me to grow bigger and bigger and BIGGER.$1#$b# As they kept forcefeeding me, they said hurtful things and kept smacking my poor Belly hard! $3#$b# When they finished my Belly was so big that it completly filled my Room pinning me to the wall. $4#$b# I was triple H and completely dependent on them. I was Huge, helpless, and Hungry!$5#$e# But than you appeared with another cake and fed it to me. Causing me to swell even Bigger!$0#$b# I felt so wonderful $4#$b# And then you fed me another one, and I became so big that I burst out of my parents house!.$1#$e# But it didn't stop there, You gave me another one, and another, and another...$4#$b#  and another, and another, and another, and another and another, and another!$7#$b# Each one making me bigger and bigger than the last!$7#$b# I go so big that my Belly reached accross the Gem Sea!$9#$b# I know It crossed it because I felt a dampness beneath me!$4#$b# But then I woke up.$3#$e# I wonder if I'm psychic, Because when I woke up my sheets were soaked! $4",
+	"MixedDialogueMod.Abigail.fall_Thu10.3": "I had an interesting dream last night, with you and a lot of chocolate in it.#$e#It was a good dream.$h#$b#%You notice Abigail practically salivating at the idea of chocolate with stars in her eyes.",
+	
+	"MixedDialogueMod.Abigail.fall_Sat.1": "$d cc#I can't believe you fixed up that old Community Center all by yourself. I'm really impressed.#$e#Do you think you could fix my bed that well?$h|Do you have any scarecrows on your farm?",
+	"MixedDialogueMod.Abigail.fall_Sat.2": "$d cc#I can't believe you fixed up that old Community Center all by yourself. I'm really impressed.#$e#Do you think you could fix my bed that well?$h|Do you have any Pumpkins on your farm?",
+	
+	"MixedDialogueMod.Abigail.fall_Sat6.1": "Do you like actually LIKE big girls?$2#$b# I'm asking for a friend of mine $3.",
+	
+	"MixedDialogueMod.Abigail.fall_Sun8_inlaw_Emily.1": "Are you trying to catch up to me in weight or something?#$e#Ah, Emily's cooking, I get it.$b",
+	
+	
+	"MixedDialogueMod.Abigail.winter_Mon.1": "You'd think I'd be happy in the snow with all this extra padding.#$e#Nope! Just more of me to get cold.$h#$e#But I do enjoy building a snowgoon.$h",
+	"MixedDialogueMod.Abigail.winter_Mon.2": "You'd think I'd be happy in the snow with all this extra padding.#$e#Nope! Just more of me to get cold.$h#$e#But I do enjoy building a snowman of myself.$h#$e# Every year it just takes more and more!",
+	"MixedDialogueMod.Abigail.winter_Mon.3": "You'd think I'd be happy in the snow with all this extra padding.#$e#And you'd be right! Lots of insulation.$h#$e#Building a snowgoon is pretty fun too.$h",
+	"MixedDialogueMod.Abigail.winter_Mon.4": "I never feel cold, I stay toasty warm thanks to all this extra me!$h#$e#Hey! If you're cold you can snuggle up to me for some warmth...$l",
+	
+	"MixedDialogueMod.Abigail.winter_Tue.1": "Doesn't a steaming hot cup of cocoa sound good right now?#$e# I could certainly go for a few.$h",
+	"MixedDialogueMod.Abigail.winter_Tue.2": "Doesn't a steaming hot cup of cocoa with marshmallows sound perfect right now?#$e#Oh and some gingerbread! Oh and egg-nog! Oh and some...#$b#%Abigail begins to list a veritable cornucopia of other foods, almost forgetting you were there...#$e#Oh all of that and more would just be perfect for me$h",
+	
+	"MixedDialogueMod.Abigail.winter_Tue4.1": "It's so cold, I wish we had a two gallons of Hot cocoa to share.$h That way you could have a cup! $1",
+	
+	"MixedDialogueMod.Abigail.winter_Wed.1": "Hi. Is it boring to be a farmer during the winter?#$e#I just spend most of the Winter days cooped in my room.#$e#Feel free to join me some time!",
+	
+	"MixedDialogueMod.Abigail.winter_Wed3.1": "Well, @, my friend, it appears as though you have stumbled upon very unfortunate circumstances.$10#$b#Well, circumstance.$10#$b#A circumstance.$10#$b#You might be wondering what's going on, how this came to be, and why you're the one to stumble upon particular scenario.$10#$b#That's easily explained, but it's neither here nor there, y'see. The fact of the matter is that you're here now, and you might as well accept it.$10$10#$b#Actually, this reminds me of the time I was sitting in the town square with my good friend Emily a few years ago.$10#$b#I think it might've been fall...?$10#$b#No, spring! It was definitely spring.$10#$b#We were talking about the idea of incar- reincarnation.$10#$b#See, the idea that we're \"simply a mass of carbon, hydrogen, oxygen, and numerous other elements slapped together through pure chance and that's it\" doesn't sit right with me.$10#$b#\"You're constructed, you decompose, and that's your lot.\" Not my cup of cola, thank you.$10#$b#That's not to say we were simply created by another entity beyond our perception!$10#$b#I found out that bringing up Yoba in front of Emily was a terrible idea the hard way.$10#$b#Best leave it be.$10#$b#I just figured it makes no sense for us to be soulless organic computers since there's a consciousness behind our flawed perception of reality.$10#$b#But anyway, I kind of zoned out when Emily started rambling about her thoughts on the matter.$10#$b#Not willingly, of course! It was because a commotion coming from a nest in a nearby tree caught my attention.$10#$b#An egg happened to roll out of it...$10#$b#The nest, I mean, not the tree. Though I suppose it technically fell out of the tree too.$10#$b#The egg, I mean, not the nest.$10#$b#The egg fell out of the nest which just so happened to be in the tree somehow...$10#$b#... and made a big mess on the branch below. A terrible pity, it was.$10#$b#I didn't immediately realise what had happened until I saw a second egg tip over the edge.$10#$b#Some nasty little cuckoo had gotten into the nest and tipped the poor eggs out!$10#$b#And not just an adult cuckoo either. This was the work of a chick.$10#$b#At least, I think it was.$10#$b#Adults only replace one egg, you know?$10#$b#Chicks, on the other hand, will kill all competition the moment they're born- hatched, I mean.$10#$b#That's a bit of a tangent, though.$10#$b#Where was I?$10#$b#Ah, that's right.$10#$b#And that's how I came to learn about the theory of the single soul.$10",
+	
+	"MixedDialogueMod.Abigail.winter_Wed4.1": "Hi. If you're ever bored, you can always hang out in my room.#$e#As long as I'm not changing, of course!",
+	
+	"MixedDialogueMod.Abigail.winter_Wed6.1": "It must be nice not having crops to worry about this time of year.#$e#And that means you can hang out with me more often!$h#$e#I can practically feel myself growing whenever you're around!",
+	
+	"MixedDialogueMod.Abigail.winter_Thu.1": "Another year is almost over. Another dress size almost outgrown!$1#$e# It goes by so fast, doesn't it?$s",
+	
+	"MixedDialogueMod.Abigail.winter_Thu10.1": "Another year is almost over...#$b#But this was a really FULL year! fon't you think?$h",
+	
+	"MixedDialogueMod.Abigail.winter_Thu10_inlaw_Emily.1": "Emily's been inviting me round yours for dinner.#$e#And you know me! Free food? When and where? But I've seen her special orders from the shop. And, sorry, but it makes celery look gourmet.$3#$e#Sorry, that was pretty harsh. Do you think you could break it to her gently for me?#$e#Thanks, @. I owe you one.",
+	
+	"MixedDialogueMod.Abigail.winter_Thu10_inlaw_Sebastian.1": "I still remember those chilly winter days when Sebastian would invite me round years ago.#$e#We'd empty the kitchen, light an incense, then go nuts with the munchies.#$e#What? You thought he got that big through eating alone? Maybe I said too much.$h",
+	"MixedDialogueMod.Abigail.winter_Thu10_inlaw_Sebastian.2": "I still remember those chilly winter days when Seb would invite me round years ago.#$e#We'd empty the kitchen, light an incense, then go nuts with the munchies.#$e#What? You thought she got that big through eating alone? Maybe I said too much.$h",
+	
+	"MixedDialogueMod.Abigail.winter_Fri.1": "One thing I've learned living here... everyone stares at you if you look different.#$e#Then again it could be because I weigh as much as 3 of the other townsfolk. Maybe more!$h",
+	
+	"MixedDialogueMod.Abigail.winter_Fri6.1": "@, there's something I want to tell you...#$e#It's just... um... well... your boots! They, uh...look really clean... *gulp*#$e#That's all... *sigh*$s",
+	"MixedDialogueMod.Abigail.winter_Fri6.2": "@, there's something I want to tell you...#$e#It's just... um... well... your hands! They, uh...look really clean... *gulp*#$e#That's all... *sigh*$s",
+	
+	"MixedDialogueMod.Abigail.winter_Fri10.1": "I used to think I ate because I was upset.#$e#Then you came along, @.$4",
+	"MixedDialogueMod.Abigail.winter_Fri10.2": "I used to think I ate because I was upset.#$e#Then you came along, @.$4#$b# Now I eat just for the sheer thrill of getting bigger. $9!!",
+	"MixedDialogueMod.Abigail.winter_Fri10.3": "I used to think I ate because I was upset.#$e#Then you came along, @.#$e#...God, that was so corny.$4",
+	"MixedDialogueMod.Abigail.winter_Fri10.4": "I used to think I ate because I was upset.#$e#Then you came along, @.$b#$e#I feel myself growing every single day in your presence. #l",
+	
+	"MixedDialogueMod.Abigail.winter_Sat.1": "It's the weekend!#$e#That means I can snack and play video games almost twice as much.$h#$e#Bye.",
+	
+	"MixedDialogueMod.Abigail.winter_Sat6.1": "I've been daydreaming a lot lately...#$e#Oh! You want to know what it's about? Well...$u#$b#...It's a secret.  he he$h",
+	
+	"MixedDialogueMod.Abigail.winter_Sun.Original": "I'm feeling good today!$h#$q 29/30 winter_Sun_old#What do you think about me? About my, ahem, size?#$r 29 100 Sun_29#You could stand to get a little bigger.#$r 30 5 Sun_30#I like you just the way you are.#$r 30 -50 Sun_Bad#You need to go on a diet, stat.",
+		"MixedDialogueMod.Abigail.winter_Sun_old.Original": "$p 29#I weighed myself last night. I'm up five pounds!$h|Why? No reason.",
+		"MixedDialogueMod.Abigail.Sun_29.Original": "... I never thought I'd meet someone who felt the same way until you came along.$l",
+		"MixedDialogueMod.Abigail.Sun_30.Original": "Aww, you're sweet.",
+		"MixedDialogueMod.Abigail.Sun_Bad.Original": "Rude! Why would you hurt my feelings like that? You're so insensitive!$a",
+	
+	"MixedDialogueMod.Abigail.winter_Sun.LargeLeah": "I'm feeling good today!$h#$q 29/30 winter_Sun_old#What do you think about me? About my, ahem, size?#$r 29 100 Sun_29#You could stand to get a little..no a LOT bigger!#$r 30 5 Sun_30#I like you just the way you are.#$r 30 -50 Sun_Bad#You need to go on a diet, stat.",
+		"MixedDialogueMod.Abigail.winter_Sun_old.LargeLeah": "$p 29#I weighed myself last night. I'm up ten pounds!$h|Why? No reason.",
+		"MixedDialogueMod.Abigail.Sun_29.LargeLeah": "... I never thought I'd meet someone who felt the same way.$b",
+		"MixedDialogueMod.Abigail.Sun_30.LargeLeah": "Aww, you're sweet.",
+		"MixedDialogueMod.Abigail.Sun_Bad.LargeLeah": "Rude! Why would you hurt my feelings like that? You're so insensitive!$a",
+	
+	
+	"MixedDialogueMod.Abigail.spring_12.1": "I'm definitely going to enter the egg hunt tomorrow. Are you?#$e#You better stay out of my way though I plan to win!$a#$e#Sorry, I get a bit excited and competitive whenever food is involved.$h",
+	
+	"MixedDialogueMod.Abigail.spring_23.1": "Well, tomorrow is the flower dance. Dancing is alright, but they make me wear this stupid white dress...$s#$e#They never get my size right.$s",
+	"MixedDialogueMod.Abigail.spring_23.2": "Well, tomorrow is the flower dance. Dancing is alright, but they make me wear this stupid white dress...$s#$e#They never get my size right. Its always way too tight in the chest, and belly and hips.$4",
+	"MixedDialogueMod.Abigail.spring_23.3": "Well, tomorrow is the flower dance. Dancing used to be easy for me but it drains every bit of energy out of me now and I can barely breathe...$s#$e#And then they make me wear this stupid white dress...$s#$e#They never get my size right.$s#$e#Then again I'm sure it must be hard on Emily making dresses my size!$b",
+	
+	"MixedDialogueMod.Abigail.spring_25.1": "I'm still exhausted from yesterday.#$e#You would not believe how much I ate last night. I almost popped a seam!$h",
+	"MixedDialogueMod.Abigail.spring_25.2": "I'm still exhausted from yesterday. Dancing with a full belly is such grueling work.$2#$e#You would not believe how much I ate last night.$4#$b#Ohh I almost popped a seam!$9#$b# But it was worth it!$1",
+	"MixedDialogueMod.Abigail.spring_25.3": "I'm still exhausted from yesterday.#$e#You would not believe how much I ate last night. I burst straight out of my dress when I sat down at home!$h#$e#It was kind of...fun... having that happen...$l",
+	
+	"MixedDialogueMod.Abigail.summer_1.1": "Summer's here. It's not really my favorite season.#$e#The air is so muggy I feel like I'm floating in soup...#$e#That and I'm a whale. You don't want to know how much I sweat in this heat.",
+	"MixedDialogueMod.Abigail.summer_1.2": "Summer's here. It's not really my favorite season.#$e#The air is so muggy I feel like I'm floating in soup...#$e#That, and I'm a whale. You don't want to know how much I sweat in this heat.$6#$e# Or do you? $4",
+
+
+	"MixedDialogueMod.Abigail.summer_6.1": "I had an interesting dream last night, with you and a Tons upon Tons of chocolate in it.$1#$e# Everything I touched turned to chocolate. I ate and ate until The ENTIRE UNIVERSE consisted of only me and you.$4",
+	"MixedDialogueMod.Abigail.summer_6.2": "I went to the beach last night, after dark... Sometimes you can see strange lights bobbing over the sea.#$e#You don't wanto know how hard it was to actually make my way over there. I had stop every few feet to get my breath back...$s",
+	
+	"MixedDialogueMod.Abigail.summer_10.1": "Everyone's excited for the Luau tomorrow. Maybe a little nervous, too, considering the Governor will be here.#$b# Not to mention all that food! I'm sure you'll help me eat!$9",
+	
+	"MixedDialogueMod.Abigail.summer_12.1": "Yesterday was amazing. I got so stuffed! The soup gets better every year.$9",
+
+	"MixedDialogueMod.Abigail.summer_27.1": "You can't miss tomorrow's festival. It's one of the most beautiful wonders of the valley.",
+	
+	"MixedDialogueMod.Abigail.fall_1.1": "Ah... Fall's here!$h#$e#I was getting so tired of waking up drenched in sweat.",
+	
+	"MixedDialogueMod.Abigail.fall_26.1": "Will I see you tomorrow at the halloween festival? Look for me in the haunted maze.$h#$e#Last year I got kind of...well... stuck in it$b#$e#I had to have Clint trying and force me out of it!$h",
+	
+	"MixedDialogueMod.Abigail.winter_1.1": "Well, fall is over...$s#$e#But I like winter, and the star feast is just divine.$h",
+	"MixedDialogueMod.Abigail.winter_1.2": "Well, fall is over...$s#$e#But I like winter, too!$h#$e#I don't feel the cold like other people. #$e#Just another advantage of being a 'well endowed' girl like myself.$h",
+	
+	"MixedDialogueMod.Abigail.winter_7.1": "I'm looking forward to making a snow man tomorrow.$0#$b# I better eat alot tonight!$1#$b# Because I won't have time tomorrow...$2",
+	"MixedDialogueMod.Abigail.winter_7.2": "I'm looking forward to making a snow man tomorrow.#$e#I wonder if anyone could make one of me.#$e#Then again that would require a LOT of snow!$h",
+	
+	"MixedDialogueMod.Abigail.winter_24.1": "I'm going to eat so much tomorrow, you'll have to roll me home.$h",
+	"MixedDialogueMod.Abigail.winter_24.2": "I'm going to eat so much tomorrow, you'll have to roll me home.$h#$b# I need to drink a a lot of diet soda and swallow some mints to get ready! $4",
+	"MixedDialogueMod.Abigail.winter_24.WasFat": "I'm going to eat so much tomorrow, you'll have to roll me home.$h#$e#So much food, so little time...#$e#My waist-line is lucky that it only happens once a year. If it was every-day I'd be as big as Maru used to be in no time!",
+	"MixedDialogueMod.Abigail.winter_24.WasNotFat": "I'm going to eat so much tomorrow, you'll have to roll me home.$h#$e#So much food, so little time...#$e#My waist-line is lucky that it only happens once a year.",
+	
+	"MixedDialogueMod.Abigail.winter_26.1": "Phew! I beat last year's record, that's for sure. Thank Yoba for Emily.#$e#I was her secret friend a few years back. She surprised me by letting out my clothes.#$b#She'd noticed my waistband was getting rather tight, apparently.$h#$e#Now it's become a yearly tradition of mine, going back with Emily after stuffing myself to the brim.",
+	"MixedDialogueMod.Abigail.winter_26.2": "Phew! I beat last year's record, that's for sure. Thank Yoba for Emily.#$e#I was her secret friend a few years back. She surprised me by letting out my clothes.#$e#She'd noticed my waistband was getting rather tight, apparently.$h#$e#Now it's a yearly tradition of mine, going back with Emily after stuffing myself to the brim.",
+	
+	////////////////////////////////
+	//Abigail Post Marriage Dialogue
+	////////////////////////////////
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Day_0.1": "The dark... the rain... it gets me excited.$l#$e#No, not the same kind of excited when you surprise me with sixths! You're insatiable.$4#$e#Then again, so am I. It's like we're made for each other.$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Day_1.1": "Hey, remember when we had that picnic by the lake? This weather reminds me of that day.#$e#You really surprised me with all that food... I never expected that. I guess that's why I like you so much.$l",
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Day_2.1": "Hey! I woke up early and had a short waddle around the farm. I found this and it reminded me of you. [768 767 769 66 82 337]#$e#Think you can find something better than that? I'm not so sure!$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Day_3.1": "The valley looks so nice when it's raining.#$e#This weather's also great for cooling me off whenever I go out for a stroll.#$e#It's easy to overheat when you're hauling this kind of bulk around.$h",
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Day_3.2": "The valley looks so nice when it's raining.#$e#I'm gonna spend the day relaxing in-doors...#$e#Well you know that I don't exactly need an excuse for that...",
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Day_4.1": "Maybe I'll boot up Journey Of The Prairie King today... one of these days I swear I'll beat it on my own.$h#$e#I wish I could just sit in and play video games and eat all day. That would be the perfect life for me!",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.patio_Abigail.1": "%Abigail's flabby arms jiggle as she's lost in her music.",
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Day_Abigail.1": "This weather's perfect for snuggling up by the fire and eating everything in the fridge. Don't you agree?",
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Day_Abigail.2": "This is the perfect day for staying in and snacking, don't you think?",
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Night_0.1": "Hey, Honey? Could you ask Maru's mom to reinforce the bed for us, please? It's been creaking so loudly recently.#$e#If I gain any more weight, I'll probably reduce it to splinters. And you wouldn't want me to stop growing now, would you?",
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Night_1.1": "My clothes have been getting so tight lately. I even popped the button on my favorite pair of jeans. Look!#$b#%Abigail lifts her rolls out of the way so you can see. It looks less like the button's popped and more like her belly has torn its way through the seams.#$e#I was going to head into town for a patch job, but I don't think Emily likes measuring me when I'm soaking wet.#$e#I think she gets upset when she sees the clothes she tailored not kept dry. Especially my shirts. She just... stares.",
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Night_1.2": "My clothes have been getting so tight lately. I even popped the seat of my favorite pair of jeans. Look!#$b#%Abigail turns around and motions for you to look closer to the split in her pants. Once you lean down, she cuts a loud fart, bathing you in pizza scented gas, which makes you blush profusely.#$e#Gotcha~.",
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Night_1.3": "My clothes have been getting so tight lately. I even popped the button on my favorite pair of jeans. Look!#$b#%Abigail lifts her belly out of the way with tremendous effort so you can see. It looks less like the button's popped and more like her belly has torn its way through the seams.#$b#%Looking at her belly and then her semi-shredded jeans, you wonder how it managed to contain the enormous gut for so long!#$e#I was planning to head into town for a patch job from Emily anyway!#$e#I think she gets upset when she sees the clothes she tailored are now in tatters.#$e#She takes an awfully long time getting my measurements too... What do you think that's all about?",
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Night_2.1": "I felt like sitting outside with an umbrella today.#$b#But I kinda got wedged in the doorway. I knew I was ballooning pretty quickly, but I didn't think I was that big already.$4",
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Night_3.1": "You don't think Piz-Zuzu City delivers this far out, do you? I wouldn't mind a pizza marathon before bed.",
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Night_3.2": "You don't think \"PizZuzu City\" delivers this far out, do you?",
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Night_5.1": "Hey! You look like you've been hard at work. Maybe relaxing on my belly will help~?^Have you been working hard? You look cute when you're a little tired.$h",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Night_Abigail.1": "The sound of rain should put us right to sleep tonight.#$e#Although not before we get a chance to have some alone time$l",
+	"MixedDialogueMod.Abigail.Marriage.Rainy_Night_Abigail.2": "I'm ready to hop into bed whenever you are. The sound of rain will put us right to sleep.#$e#Well not really jump, I don't want to destroy it, Do I?!$h",
+	
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Day_0.1": "Sorry I'm not helping as much these days, @. I'm finding it so hard to get out of bed in the morning.#$e#If we're not careful, you'll have to start bringing me breakfast in bed.$h#$e#And lunch, and dinner, and dessert. Lots and lots of dessert... *slurp*$4",
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Day_2.1": "Heading to the mines? Hey... if you find something tasty, remember to bring me a piece!$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Day_3.1": "I think today's going to be another baking day. More brownies is always a plus.#$e#What do you mean I've never made you any? I have! I just happen to eat them before you do.#$e#You knew what you were getting yourself into when you married a fatty with impulse control issues and a black hole for a stomach.$h",
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Day_3.2": "I think today's going to be another baking day. More brownies is always a plus.#$e#What do you mean I've never made you any? I have! I just happen to eat them before you do.#$e#You knew what you were getting yourself into when you married me, babe!$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Day_4.1": "Sorry about the nibbling last night. I had this amazing dream.#$b#Of course you were in it!$h#$e#Tables as far as I could see, all heaving, groaning with every food imaginable.#$b#I ate and ate until I was simply too big to move, too big to reach for any more. I was surrounded by an ocean of myself.#$b#But I was still hungry! Filled to the brim with pies, tarts, roasts and pasta, yet ravenous for everything in front of me.#$b#Luckily, my handsome little butler was ready and willing to serve his hungry queen. *chuckle*^Luckily, my cute little maid was ready and willing to serve her hungry queen. *chuckle*$h#$b#*sigh* As heavenly as it was, it was still just a dream.#$e#One day, though, you'll help me make it a reality, won't you?#$b#I'd like to think that's something we can both look forward to.$4",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Day_Abigail.1": "There's always something new growing on our farm to eat... I love it.#$e#Then again with me here of course something is always going to be growing!$l",
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Day_Abigail.2": "There's always something new happening on our farm... I love it.#$e#I love watching all the crops growing and the animals too.#$b#It reminds me of myself$l",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_0.1": "Hey! I know you've been working hard, but I couldn't ask for a footrub, could I?#$e#Holding up hundreds of pounds of blubber-butt is hard on my fat little feetsies.",
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_0.2": "Hey! I know you've been working hard, but I couldn't ask for a footrub, could I?#$e#Holding up hundreds of pounds of blubber is hard on my fat little feetsies.#$e#Maybe later you could rub me ALL. OVER. I know you love doing that!$l",
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_1.1": "Watching your animals is kind of fun. They wake up, they eat, they go back to sleep. They're a bit like me.#$e#Hey, you've not mistaken me for one of your cows, have you? I know our weights are similar, but still!$h#$e#Maybe I'll have to resort to using the cattle scales if we want to know how fat I am.$4",
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_1.2": "Watching your animals is kind of fun. They wake up, they eat, they go back to sleep. They're a bit like me.#$e#No, you cannot start calling me your 'cow wife'!$h#$e#...At least...not in public.$4",
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_2.1": "Hey, have you noticed the floorboards creaking more than usual?#$e#It's just me? Why, @, are you implying that I'm overweight? You'd better not be.$3#$b#You know I hate it when people understate my thunder-thighs.$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_3.1": "I'm so, so full, @. I've been doing nothing but eating all day. I might pop if I have another bite.#$e#Honey, a belly rub as I slip into a food coma for the night would be divine.$4",
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_4.1": "Hey, Honey, I have an idea.#$e#You, me, and the biggest chocolate cake you can bake. Cakes and cuddles make every night special.$h",
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_4.2": "Hey, Honey, I have an idea.#$e#You, me, and the biggest chocolate cake you can bake. Cakes and you make every night special.$h",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_Abigail.1": "@... Could you tell me something?#$e#How fat am I getting? No, no, describe it to me. In detail. Use your hands if you have to.$4",
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_Abigail.2": "@... Could you tell me something?#$e#How fat am I getting? No, no, describe it to me. In detail. Use your hands if you have to.$4#$e#I wouldn't have thought a few years back I'd be this size. I love how quick I got to be this big$l#$b#And I hope with you by my side I'll only get bigger!$l",
+	"MixedDialogueMod.Abigail.Marriage.Indoor_Night_Abigail.3": "Are you ready for bed soon? I turned on the electric blanket for us...$l#$e#Not that you really need it when you're snuggling with me my love.$l",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_0.1": "The soft breeze is blowing mountain air throughout the valley today. It smells like fresh pine and sage.#$e#*rumble* Oof, it makes me hungry.#$b#It's been at least fifteen minutes since I last ate, though, so it could be that.$h",
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_0.2": "The soft breeze is blowing mountain air throughout the valley today. It smells like fresh pine and sage.#$e#Mhhhhh, talking about food is making me hungry$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_1.1": "Hmm... I think we've got plenty of space for outdoor slime ranching!#$e#I wonder how big they can get... Think we'll be seeing an Abigail Jr.?",
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_1.2": "Hmm... I think we've got plenty of space for outdoor slime ranching!#$e#I may not be the only large blob on the farm soon!$l",
+	
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_2.1": "Make sure to keep things tidy around your Grandpa's shrine. There's something special about it, I can feel it.#$e#I wonder what his opinion of me would be. My size seems to be kind of polarizing.",
+	
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_3.1": "It's pretty cool that we have a cave on our property. It's something I always dreamed about.$h#$e#It's a bit of a shame I can't fit inside it...$s#$b#... And kinda hot, too.$4",
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_3.2": "It's pretty cool that we have a cave on our property. It's something I always dreamed about.$h#$e#It's too bad it's not very big.$4",
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_3.3": "It's pretty cool that we have a cave on our property. It's something I always dreamed about.$h#$e#It's a bit of a shame I can't fit inside it...$s#$b#... And kinda hot, too.$4#$e#You're not hiding food on me in there are you?$a",
+	
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_4.1": "I always forget to put some snacks in my pocket. Got anything, sweetheart?$h",
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_4.2": "I always forget to put some snacks in my pocket. *rumble*$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_Abigail.1": "I'm just going to hang out here, okay?#$eI'd come out more often, but there's just not enough to eat outside! *chuckle*$h#$e#Oooh, do you know what we need? A barbecue!",
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_Abigail.2": "I'm just going to hang out here, okay?#$eI'd come out more often, but there's just not enough to eat outside! *chuckle*$h#$e#Oooh, do you know what we need? A barbecue!#$e#We should invite Maru, she has so much knowledge on barbeques.#$e#Then again with both her and me there the food will be gone almost instantly!$h",
+	"MixedDialogueMod.Abigail.Marriage.Outdoor_Abigail.3": "I'm just going to hang out here, okay?#$e#There's a lot of fun places to snack at out here. *chuckle*$h",
+
+	
+	"MixedDialogueMod.Abigail.Marriage.funLeave_Abigail.1": "I'm going in to town today, just so you know. I've been avoiding this for a while for... $1obvious reasons.#$e#Don't worry, I'll try not to get too much exercise. We don't want this ass getting any smaller, do we?$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.funReturn_Abigail.1": "%Abigail's focused on standing upright, sucking in air between her plump lips. She's flushed red and dripping with sweat from the effort.#$e#%Your eyes meet. She takes the opportunity to lean on you for support, a meaty arm wrapping itself around your shoulders. Your body, strong as you are, nearly buckles under her immense weight.#$e#Hey, *huff* Honey. *huff* Gimme, *huff* a minute, *huff* to catch, *huff* my breath. Phew!$4#$e#You should've seen the look on their faces when they saw how much bigger I was... It was amazing.$h",
+	"MixedDialogueMod.Abigail.Marriage.funReturn_Abigail.2": "%Abigail's focused on standing upright, sucking in air between her plump lips. She's flushed red and dripping with sweat from the effort.#$e#%Your eyes meet, and she smiles as she wraps a meaty arm around your shoulders. Your body, strong as you are, nearly buckles under the immense of your wife, as her rear end erupts with a bassy rumble, stomach gurgling.#$e#Hey, *huff* Honey. Gimme *pant* a minute, to catch *mmf* my breath. Phew!$4#$e#You should've seen the look on their faces when they saw how much bigger I was... It was amazing.$h",
+	"MixedDialogueMod.Abigail.Marriage.funReturn_Abigail.3": "%Abigail's focussed on standing upright with a tremendous effort, sucking in air between her plump lips. She's flushed red and dripping with sweat.#$e#%Your eyes meet. She takes the opportunity to lean on you for support, a meaty arm wrapping itself around your shoulders. Your body, strong as you are, nearly buckles under her immense weight.#$e#Hey, *huff* Honey. *huff* Gimme, *huff* a minute, *huff* to catch, *huff* my breath. Phew!$4#$e#You should've seen the look on their faces when they saw how much bigger I was... It was amazing.$h#$e#But damn that walk took it out of me... *huff*...Is there anything *huff* to eat inside?$b",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.OneKid_3.1": "I can't believe I'm a \"mom\"... life is weird.$h#$e#It'll be nice to have a family of helpers when I get too big to move on my own.$4",
+	"MixedDialogueMod.Abigail.Marriage.OneKid_3.2": "I can't believe I'm a \"mom\"... life is weird.$h#$e#...I think I found something I love more than eating...besides you of course.$4",
+	
+	"MixedDialogueMod.Abigail.Marriage.TwoKids_1.1": "Life's good when you're eating for three.#$e#No, that's totally how it works. Trust me.$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.TwoKids_3.1": "A cool old house, a couple kids, an amazing farm, and more food than I could ever eat. I never thought I'd come this far...#$e#But, hey! Our lives are just getting started.$h",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.Good_1.1": "Did you hear that? Sometimes I'm convinced this house is haunted.$u#$e#Then again whenever I move around, the house does creek a whole lot!$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.Good_2.1": "I stepped on the scale today! Wanna know what it said?#$e#It told me my weight exceeded the maximum limit!$h#$b#And that's 500 pounds for the record!$l",
+	
+	"MixedDialogueMod.Abigail.Marriage.Good_3.1": "I can't even remember the last time I dyed my hair... I swear, it never fades from this color...#$e#Do you like it? Or would you rather another color?",
+	
+	"MixedDialogueMod.Abigail.Marriage.Good_4.1": "I'm glad I owned a pair of custom super-sized clothes before I came but I don't know how long they'll last.$h",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.Neutral_0.1": "I hope you'll still like me when I'm too big to move around anymore!",
+	"MixedDialogueMod.Abigail.Marriage.Neutral_0.WasFat": "Sometimes, I forget Maru managed to lose all those pounds.#$e#It's hard to believe I'm nowhere near her peak yet.",
+	"MixedDialogueMod.Abigail.Marriage.Neutral_0.WasNotFat": "I hope you'll still like me when I'm too big to move around anymore!",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.Neutral_8.1": "How big do I want to get? How much food do you have?",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.Bad_7.1": "I used to be special to you, your best friend... now you only seem to put up with me when I make a hot dinner.$s#$e#Have I gotten too big for you?$s#$e#I gained... so much for you...$s",
+	
+	"MixedDialogueMod.Abigail.Marriage.Bad_8.1": "You've been so cold to me lately... What's wrong with you? You're acting like a bastard...$s#$e#Have I done something wrong?$s",
+	
+	"MixedDialogueMod.Abigail.Marriage.Bad_9.1": "I wonder if I could've done better... Maybe they were right. Maybe I should've lost this weight while I had the chance.$s",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.spring_1.1": "So, do you have any big plans for the new year?#$e#Besides me! *chuckle* But I agree. I am a very, very big girl with very, very big plans.$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.spring_12.1": "Hey, the egg festival is tomorrow. I'm sorry, but I won't go easy on you because we're married!$h#$e#Wait a second. You didn't fatten me up like a prize hog to slow me down, did you? Very crafty, @!$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.spring_2.1": "Do you have any new year's resolutions? I'm trying to lose a few pounds around the middle.#$b#Psych! This gut's going to get big enough to replace the bed someday.$h",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.summer_1.1": "I get sunburnt very easily, so I need to be careful this time of year.#$e#I hope you don't mind helping me rub in sunblock for a few hours every morning!$h#$e#Be a good boy and I might even let you do it at night, too.^Be a good girl and I might even let you do it at night, too.$4",
+	
+	"MixedDialogueMod.Abigail.Marriage.summer_4.1": "Make sure you don't get a heat stroke, my love.#$e#Drink plenty of water and don't overwork yourself.#$e#I'm not too happy about drinking so much either. Means there's less room for blueberry pie.$6",
+	
+	"MixedDialogueMod.Abigail.Marriage.summer_8.1": "Sorry about the smell... I was sweating all night in the heat.#$e#Thank Yoba I've got you to help me get clean, huh?$4",
+	"MixedDialogueMod.Abigail.Marriage.summer_8.2": "Sorry about the smell... I just farted.#$e#Oh come on @, stop looking at me like that, you goof!$4",
+	"MixedDialogueMod.Abigail.Marriage.summer_8.3": "Sorry about the smell... I was sweating all night in the heat.#$e#Thank Yoba I've got you to help me get clean, huh?$4#$e#Then again whenever me and you are together in bed it's kinda impossible to not sweat myself out!$l",
+	
+	"MixedDialogueMod.Abigail.Marriage.summer_15.1": "It's summer... that means the house is full of flies.#$e#I used to chase them when I was little. You won't catch me doing that anymore!$h",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.fall_1.1": "The scent is unmistakable... mushroom, rotting leaves, pumpkin. It's fall, alright. Isn't it lovely?#$e#I can't wait to sample some pumpkin pie!",
+	
+	"MixedDialogueMod.Abigail.Marriage.fall_6.1": "Ah... fall. This might be my favorite time of year. The colors really complement my hair, don't you think?#$e#It's also great for my fashion too, it really compliments my body outline!$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.fall_20.1": "Honey... you're worth more to me than a chest full of doughnuts...#$e#Now, a chest full of cake? Hmm... I'd have to think about that one.$h#$e#%You see that Abigail has become distracted by the thought of food and is now ferverishly licking her lips.",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.winter_3.1": "I actually like the cold weather. It gives me the perfect excuse to huddle up warm and eat enough to feed a village!$h",
+	"MixedDialogueMod.Abigail.Marriage.winter_3.2": "I actually like the cold weather. It gives me the perfect excuse to huddle up with my favorite person in the world!$h",
+	"MixedDialogueMod.Abigail.Marriage.winter_3.3": "I actually like the cold weather. It gives me the perfect excuse to huddle up warm and eat enough to feed a village!$h#$e#Maybe you'd like to join me in that?$l",
+	
+	"MixedDialogueMod.Abigail.Marriage.winter_15.1": "It's fun to explore the valley in winter! Everything is so different under a blanket of snow. And so quiet...#$e#The cold air also keeps me from over-heating so quickly!#$e#I love how the breeze swirls up my legs and keeps them really pleasantly cool.$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.winter_24.1": "I used to get so excited for the Feast of the Winter Star.#$e#But thanks to you, @, the feast never really ends. I love you.$h",
+	
+	"MixedDialogueMod.Abigail.Marriage.winter_26.1": "%You stand before your ever-widening wife. It's easy to see the differences the added weight has made, even though her center's still gravid with yesterday's feast.#$e#Mmm... I missed you last night, @.#$e#Don't worry. We'll more than make up for it tonight.$4#$e#Make sure you say hi to Emily for me! I'd be naked if it wasn't for her.$h",
+	"MixedDialogueMod.Abigail.Marriage.winter_26.2": "%You eye your wife, smirking as she burps and belches and breaks wind. She over did it at the feast again. Or maybe she's just putting on a show for you?#$e#Mmm... I missed you last night, @.#$e#Don't worry. We'll more than make up for it tonight.$4#$e#But...for now...could you rub my belly? Kind of a warzone in there.$h",
+	"MixedDialogueMod.Abigail.Marriage.winter_26.3": "%You stand before your ever-widening wife. It's easy to see the differences the added weight has made, even though her center's still gravid with yesterday's feast.#$e#Mmm... I missed you last night, @.#$e#Don't worry. We'll more than make up for it tonight.$4#$e#Make sure you say hi to Emily for me! I'd be naked if it wasn't for her.$h#$e#She already let out my clothes, she's always so nice and concerned that Emily she even provided me some refreshments when I went there.",
+	
+	"MixedDialogueMod.Abigail.Marriage.spring_Abigail.1	": "I may like the colder seasons, but by the end I'm always glad to see spring arrive, so many sweet things to grow on our farm!",
+	
+	"MixedDialogueMod.Abigail.Marriage.summer_Abigail.1": "Oh man... I could go for some chocolate cake. And burgers. And fries. And...#$e#%She's lost to the world.",
+	"MixedDialogueMod.Abigail.Marriage.summer_Abigail.2": "Oh man... I could go for some chocolate cake. And burgers. And fries. And...#$e#%She's lost to the world dreaming feverishly of food, an ever growing occurence as of late.",
+	
+	"MixedDialogueMod.Abigail.Marriage.fall_Abigail.1": "Do I smell pumpkin on you? Maybe I'm just dreaming...$h#$e#%You notice Abigail lick her lips slowly at the thought of, presumably, pumpkin pie",
+	
+	
+	"MixedDialogueMod.Abigail.Marriage.spouseRoom_Abigail.1": "#$c .5#I got up a little before you and fed David Jr. He's very active this morning.#$e#He keeps forgetting who I am. I'm not blowing up that quickly, am I...?$l#$e#%Abigail is playing with her large body. Poking and prodding out her overfed gut and gigglging to herself as she runs her sausage fingers along her well defined curves.",
+	"MixedDialogueMod.Abigail.Marriage.spouseRoom_Abigail.2": "I caught a proper look at myself in the mirror this morning.#$b#I've changed so much in the last few years. I used to weigh 120 pounds. Now, I don't know how much I weigh because our scale maxes out at 500$l#$e#My body is so different. Every jiggly roll, every stretch-mark, every smooth, soft curve. I love nothing more than just rubbing and squeezing myself.$l#$e#Of course I don't need to tell you this. You know yourself, you can't help but grope my belly, my breasts, my ass, hell, even my arms and I wouldn't have it any other way!$l#$e#%Abigail begins squeezing and rubbing herself all over. Her hands make their way over every roll, pausing every so often to squeeze and prod at a particular patch of flab. She heaves her gargantuan belly with tremendous effort and allowed it to fall, creating a loud slapping noise as the belly flesh made contact with her gelatinous thunder thighs",
+	
+	
+	////////////////////////////////
+	//Abigail Gift Reponses
+	////////////////////////////////
+	
+	"MixedDialogueMod.Abigail.GiftResponses.0.1": "You're going to make me sooo fat! Seriously, I love this! You're the best, @!",
+	"MixedDialogueMod.Abigail.GiftResponses.0.2": "Heyyyy, you know I'm supposed to be on a diet!",
+	"MixedDialogueMod.Abigail.GiftResponses.0.3": "Oh my goodness! Thank you! Thank you! THANK YOU!!!$h#$b#Abigail gleefully eats it all in a few bites.",
+	"MixedDialogueMod.Abigail.GiftResponses.2.1": "Hey, how'd you know I was hungry? This looks delicious!",
+	"MixedDialogueMod.Abigail.GiftResponses.4.1": "What am I supposed to do with this?",
+	"MixedDialogueMod.Abigail.GiftResponses.6.1": "What were you thinking? This is awful!",
+	"MixedDialogueMod.Abigail.GiftResponses.8.1": "You brought me a present? Thanks.",
+	
+	"MixedDialogueMod.Abigail.GiftReaction_Gem": "Mhhhh, I know I shouldn't eat this but it still looks so yummy @!",
+	
+	
+	////////////////////////////////
+	//Abigail Event Dialogue
+	////////////////////////////////
+	
+	//Gaming Event
+	"MixedDialogueMod.Abigail.2hearts.01.FatPone": "@?",
+	"MixedDialogueMod.Abigail.2hearts.02.FatPone": "You scared me, sneaking into my room like that! I could've been changing!$b#$b#",
+	"MixedDialogueMod.Abigail.2hearts.03.FatPone": "*sigh*... so I've been playing 'Journey of the Prairie King' for hours and I can't even beat the first level...$s#$b#This game is ridiculously hard!$a#$b#Well, either that or my fat sausage fingers don't have the dexterity they used to...$s",
+	"MixedDialogueMod.Abigail.2hearts.04.FatPone": "Hey, do you want to try this level together with me? I think I might do better with your help.#$b#We could make a bet out of it...if we lose and you're not up to scratch, you gotta treat me to whatever snacks I want for a week...$h#$b#If we win...#$b#Well we can settle that later$l",
+	"MixedDialogueMod.Abigail.2hearts.05.FatPone": "Ugh, I give up... I'll never get past the first level.$s#$b#Oh well... thanks for trying.#$b#Do you wanna grab a snack while you're here?",
+	"MixedDialogueMod.Abigail.2hearts.beatGame.01.FatPone": "Hey, that was fun!$h#$b#So about that reward I promised you...$l#$b#%Abigail grunts, struggling to her feet. It's clear, that at her size, it's something that isn't done with any ease. Her stomach wobbles and sags as she stands up, unrestricted by any sort of shirt or other garment.#$b#%She huff's, a trickle of sweat appearing on her brow, until finally she's on her feet with a proud smile, as if it was a great victory. #$b#%She then turns her attention to you, and gives that apron like gut a good pat, making it ripple like gelatin. She wraps her flabby arms around you suddenly and squeezes you against her obesity, your body suddenly enveloped in cloudlike, blackberry scented softness.#$b#Good job!$l#$b#%Abigail breaks away from the hug and turns to her console. She bends over, exposing how truly large that ass of hers is. However, in compressing her stomach, she causes a loud fart to erupt from her rear end, making her ass cheeks wobble from the force.#$b#Um...whoops?$l#$b#I uh... I gotta go... I um... gotta get something to eat...$l ",
+	
+	"MixedDialogueMod.Abigail.2hearts.01.Original": "@?",
+	"MixedDialogueMod.Abigail.2hearts.02.Original": "You scared me, sneaking into my room like that! I could've been changing!$b#$b#",
+	"MixedDialogueMod.Abigail.2hearts.03.Original": "*sigh*... so I've been playing 'Journey of the Prairie King' for hours and I can't even beat the first level...$s#$b#This game is ridiculously hard!$a#$b#Well, either that or my fat sausage fingers don't have the dexterity they used to...$s",
+	"MixedDialogueMod.Abigail.2hearts.04.Original": "Hey, do you want to try this level together with me? I think I might do better with your help.#$b#We could make a bet out of it...if we lose and you're not up to scratch, you gotta treat me to whatever snacks I want for a week...$h#$b#If we win...#$b#Well we can settle that later$l",
+	"MixedDialogueMod.Abigail.2hearts.05.Original": "Ugh, I give up... I'll never get past the first level.$s#$b#Oh well... thanks for trying.#$b#Do you wanna grab a snack while you're here?",
+	"MixedDialogueMod.Abigail.2hearts.beatGame.01.Original": "Hey, that was fun!$h#$b#So about that reward I promised you...$l#$b#%Abigail struggles to her feet. It's clear, that at her size, it's something that isn't done with any ease. You notice that in the process of standing, Abigail's shirt has risen slighty, exposing a very thick, fleshy muffin top with faded stretch marks poking over the waist of her dress.#$b#%Abigail huff's and puffs, sweat breaking on her brow, her mighty meaty torso heaving with each exasperated breath. #$b#%Abigail walks over to you and pull you close, her fleshy fat filled body, consuming you. Abigails body felt velvety soft, almost heavenly.#$b#You're a good friend...$l#$b#%Abigail breaks away from the hug and turns to her console. She bends over, exposing how truly large her rear end is. Her ass feels almost as if it has a gravitational pull. You wonder how any seat could possibly contain it. Abigail notices your stares...#$b#Oh... @... Do you like... This?$l#$b#I uh... I gotta go... I um... gotta get something to eat...$l ",
+	
+	
+	//Grave yard Event
+	"MixedDialogueMod.Abigail.6hearts.01.Original": "*heavy breathing* I guess you're wondering why I'm in the graveyard at this hour...",
+	"MixedDialogueMod.Abigail.6hearts.02.Original": "Well, I just bought a roast chicken from Gus and this is the best place in town to find some privacy.",
+	"MixedDialogueMod.Abigail.6hearts.03.Original": "I get so sweaty and light-headed when I overeat. It's a bit... intimate.$4",
+	"MixedDialogueMod.Abigail.6hearts.04.Original": "Wait, what's that look for? Are you judging me?!$a",
+	"MixedDialogueMod.Abigail.6hearts.05.Original": "Sorry, I guess I'm getting a little defensive.$8#$b#I get so hungry all the time. I just have to eat and eat. And I kinda like it... maybe even love it, fat ass and all.",
+	"MixedDialogueMod.Abigail.6hearts.06.Original": "You... don't think that's weird, do you?",
+	"MixedDialogueMod.Abigail.6hearts.07.Original": "No, it's a turn on!",
+	"MixedDialogueMod.Abigail.6hearts.08.Original": "No, not at all.",
+	"MixedDialogueMod.Abigail.6hearts.09.Original": "Yes. It's not normal to eat so much.",
+	"MixedDialogueMod.Abigail.6hearts.10.Original": "Doesn't matter what I think. Your body, your decision.",
+	"MixedDialogueMod.Abigail.6hearts.11.Original": "Abigail?$4",
+	"MixedDialogueMod.Abigail.6hearts.12.Original": "Dad?!$7",
+	"MixedDialogueMod.Abigail.6hearts.13.Original": "I've been looking all over for you! What are you even doing in the graveyard? We've been waiting to...$u",
+	"MixedDialogueMod.Abigail.6hearts.14.Original": "Hold on, what is this? Did you sneak out to eat again? Abigail, why didn't you just eat your dinner?$u",
+	"MixedDialogueMod.Abigail.6hearts.15.Original": "You call that dinner? Shove your salad! If I have to choke down one more damn salad, I'm going to...$a",
+	"MixedDialogueMod.Abigail.6hearts.16.Original": "Nevermind. I wish you could love the daughter you have instead of trying to starve me into the one you want.$s",
+	"MixedDialogueMod.Abigail.6hearts.17.Original": "...!",
+	"MixedDialogueMod.Abigail.6hearts.18.Original": "Let's get out of here, @.$a",
+	"MixedDialogueMod.Abigail.6hearts.19.Original": "*groan* Come on, let me lean on you. Heavy cargo, you know?$u",
+	"MixedDialogueMod.Abigail.6hearts.20.Original": "Come back!",
+	"MixedDialogueMod.Abigail.6hearts.21.Original": "Okay, my dad won't find us here...",
+	"MixedDialogueMod.Abigail.6hearts.22.Original": "*sigh* It wasn't always like this, you know. How do you think I got this big in the first place?$8#$b#Oh well. Could always be worse, right?$u",
+	"MixedDialogueMod.Abigail.6hearts.23.Original": "Thanks for hanging out with me, @. I'm glad you were the first one to find me.#$b#Would you mind if we stayed here for a little while longer? I'm still a little full from earlier.$h",
+	
+	"MixedDialogueMod.Abigail.6hearts.01.FatPone": "Oh...@...I guess you're wondering why I'm in the graveyard at this hour...",
+	"MixedDialogueMod.Abigail.6hearts.02.FatPone": "Well, I just bought a roast chicken from Gus...and this is the best place in town to find some privacy.",
+	"MixedDialogueMod.Abigail.6hearts.03.FatPone": "Gus sure makes some great chicken...$4",
+	"MixedDialogueMod.Abigail.6hearts.04.FatPone": "Wait, what's that look for? Are you judging me?!$a",
+	"MixedDialogueMod.Abigail.6hearts.05.FatPone": "Sorry, I guess...I guess I'm being a little defensive.$8#$b#I mean...I talk a big game but...you know...I have my moments of doubt.",
+	"MixedDialogueMod.Abigail.6hearts.06.FatPone": "Do you...think I'm pretty, @? Fat, gassy ass and all?",
+	"MixedDialogueMod.Abigail.6hearts.07.FatPone": "Yeah, it's a total turn on!",
+	"MixedDialogueMod.Abigail.6hearts.08.FatPone": "Of course, you're beautiful.",
+	"MixedDialogueMod.Abigail.6hearts.09.FatPone": "No. You're a total lard ass.",
+	"MixedDialogueMod.Abigail.6hearts.10.FatPone": "Doesn't matter what I think. It's ultimately your decision.",
+	"MixedDialogueMod.Abigail.6hearts.11.FatPone": "Abigail?$4",
+	"MixedDialogueMod.Abigail.6hearts.12.FatPone": "Dad?!$7",
+	"MixedDialogueMod.Abigail.6hearts.13.FatPone": "I've been looking all over for you! What are you even doing in the graveyard? We've been waiting to...$u",
+	"MixedDialogueMod.Abigail.6hearts.14.FatPone": "Hold on, what is this? Did you sneak out to eat again? Abigail, why didn't you just eat your dinner?$u",
+	"MixedDialogueMod.Abigail.6hearts.15.FatPone": "You call that dinner? Shove your salad! If I have to choke down one more damn salad, I'm going to...$a",
+	"MixedDialogueMod.Abigail.6hearts.16.FatPone": "Nevermind. I wish you could love the daughter you have instead of trying to starve me into the one you want.$s",
+	"MixedDialogueMod.Abigail.6hearts.17.FatPone": "...!",
+	"MixedDialogueMod.Abigail.6hearts.18.FatPone": "Let's get out of here, @.$a",
+	"MixedDialogueMod.Abigail.6hearts.19.FatPone": "*groan* Come on, let me lean on you. Heavy cargo, you know?$u",
+	"MixedDialogueMod.Abigail.6hearts.20.FatPone": "Come back!",
+	"MixedDialogueMod.Abigail.6hearts.21.FatPone": "Okay, my dad won't find us here...",
+	"MixedDialogueMod.Abigail.6hearts.22.FatPone": "*sigh* It wasn't always like this, you know. How do you think I got this big in the first place?$8#$b#Oh well. Could always be worse, right?$u",
+	"MixedDialogueMod.Abigail.6hearts.23.FatPone": "Thanks for hanging out with me, @. I'm glad you were the first one to find me.#$b#Would you mind if we stayed here for a little while longer? My poor belly will hate me if I jostle it around anymore.$h",
+	
+	//Large Leah version, handled differently due to the difference in fields included
+	"6hearts.01": "*heavy breathing* I guess you're wondering why I'm in the graveyard at this hour...",
+	"6hearts.02": "Well, I just bought a roast chicken from Gus and this is the best place in town to find some privacy.",
+	"6hearts.03": "I get so sweaty and light-headed when I overeat. It's a bit... intimate.$4",
+	"6hearts.04": "Wait, what's that look for? Are you judging me?!$a",
+	"6hearts.05": "Sorry, I guess I'm getting a little defensive.$8#$b#I get so hungry all the time. I just have to eat and eat. And I kinda like it... maybe even love it, fat ass and all.",
+	"6hearts.06": "You... don't think that's weird, do you?",
+	"6hearts.07": "No, it's a turn on!",
+	"6hearts.08": "No, not at all.",
+	"6hearts.09": "Yes. It's not normal to eat so much.",
+	"6hearts.10": "Doesn't matter what I think. Your body, your decision.",
+	"6hearts.11": "Abigail?$4",
+	"6hearts.12": "Dad?!$7",
+	"6hearts.13": "I've been looking all over for you! What are you even doing in the graveyard? We've been waiting to...$u",
+	"6hearts.14": "Hold on, what is this? Did you sneak out to eat again? Abigail, why didn't you just eat your dinner?$u",
+	"6hearts.15": "You call that dinner? Shove your salad! If I have to choke down one more damn salad, I'm going to...$a",
+	"6hearts.16": "Nevermind. I just wish you could love the daughter you have, instead of trying to starve me into the one you want.$s",
+	"6hearts.17": "...!",
+	"6hearts.18": "Let's get out of here, @.$a",
+	"6hearts.19": "Ohgghhh... Come on, let me lean on you. Heavy cargo, you know?$u",
+	"6hearts.20": "Come back!",
+	"6hearts.21": " Severe discomfort had been painted on her face with every heavy footstep she took.#$b#%  Waddling forward, her overly zaftig form sways left and right.#$b#% She leads you to a tiny clearing, just barely big enough for the two of you.#$b#% Abigail drops to the ground infront of you with a loud thud, jiggling wildly on impact.#$b#% The gluttonous girl's glorious gut rests between her legs, sagging outward more than a foot infront of her.#$b# Uggh......That was a trip, I hate walking after being so full. $3#$b# Thank the spirits, my dad doesn't know about this place...$0",
+	"6hearts.22": " *sigh* It wasn't always like this, you know. But, it just gets so frustrating living with them, that I need to gorge myself just to destress!$u#$b# How do you think I got this big in the first place?$1#$b# Oh well. Could always be worse, right?$0",
+	"6hearts.23": "*burp* Ohhhh Uhgh..thanks for hanging out with me, @. I*burp*m glad you were the first one to find me.$0#$b#% She takes a few deep breaths.#$b#% We should get going. I just needed to rest for a bit.$6#$b# Could you help me up?$4#$b#% Every step she'd taken had been accompanied by the groans of her overworked stomach, and the moans of its distressed caretaker.#$b#% You gently help Abigail off the ground as she slowly rises, struggling against her own weight to stand.#$b#% Her leg muscles give as her weight immediatly overwhelms you, quickly pulling the both of you together.#$b#% You fall forward, your body resting atop hers.#$b# *gasp* UhhhhAH! $7#$b# *You look down on her face to see it completly flush with a deep pink.*$4#$b#% Tension fills the air.#$b#% She takes a long deep breath, causing her already overtaxed belly to inch forward and back. #$b# Uhhhh Hey @...$2#$b# A belly rub would feel amazing right about now...$4#$b# ...Would you..?$4#$b#% You sit up straight, allowing her to unbutton her pants, and roll up her shirt.#$b#% Gingerly, she leans backward allowing her belly to swell out unhindered.#$b#% Your entire body trembles. You stare at her, seemingly frozen in place.$b",
+	"6hearts.24": " OOHHHH @, touch me!$7#$b# Please don't make me beg!$1#$b# *Without hesitation, you sink your hand into the soft flesh of her belly, and begin to gently knead it,*$4#$b# OOooOOH! $1#$b# That feels soo good!!!$4#$b#% Her swollen abdomen seems to soften beneath your grasp as you rub her tightly packed drum.#$b#% Her belly quivers, letting out a small growl.$4#$b# You know... I've eaten so much already, but for some reason...$1#$b# I still want more!$4#$b#% Her fat seems to be engulfing your hands as it seems to loosen with each gyration of her flesh.#$b#% The once tight dome seems to be softening underhand as the Gluttonous Goddess's Great Gut Gurgles.$4",
+	"6hearts.25": " She begins to sweat as she pulls out a huge torn-open box of half pound chocolate bars, stashed behind her.$4#$b# *OHHOh yes, YES!...Come to momma! You sweet treat! Mmmm...$1#$b#% Placing the thick bar into her mouth, she begins to suckle on the first of her many offerings.  The sugary treat melts in her mouth as it rolls into her hungry belly. #$b# Ohhhh more, MORE!$1#$b#% One after the other, each bar passes between her lips.#$b#% Her breathing starts to quicken, as you can feel her puffed-up paunch grow with the addition of each new bar.#$b# MORE, MORE! $7#$b#% Her entire body starts to turn blush, as it begins to bead with sweat.#$b#% Creaking and gurgling, her well-fed wonder struggles to churn against the sheer volume of her ever-growing meal.#$b# OooooOoo YES!$9#$b# Don't stop playing with my precious Belly!$9#$b# Don't stop rubbing my wonderful Belly.$9#$b# Don't stop rubbing her!$5#$b#% The command in her voice carried merit. #$b#%The once pliable flesh now carries within it a rock hard core.#$b#% You continue massaging the swollen dome harder and harder, as she moans with delight.#$b#% Abigail's stomach starts to rises before you like well kneaded dough.#$b#% Your pace begins to wane as you hands tire. #$b# OOoOOooO....don't stop now!$7#$b# Belly needs you!$3 ",
+	"6hearts.26": "% Your hands stuggle to work her flesh, as the treats continue melting into her.#$b#% Yet her belly just seems to keep swelling bigger and bigger.#$b#% With every squeeze you can feel her grow, quiver, and tighten.#$b#% Her belly is struggling to digest the huge ever-growing mass held within it. Her voice deepens.#$b# Ohhhh...whoYES! I am soooo full!$7#$b# More Rubs @, More MORE! $1#$b# More rubs for NOW!$5#$b# OHhhhh....more food!!$5#$b# Make me $7#$b# HUGE! OOOOOoooOOOOOOhhh YES!$9#$b#% Sweat drips from her belly as it inches forward, the ground beneath your shakes.#$b#% Abigail wiggles her hips back and forth as she forces herself to swallow.#$b#% She stops.#$b# *Staring down the last chocolate bar in hand. She looks up at you with languid eyes.* $8#$b# OhhhhhhhhhhhHHHHHHHHHhhh SOOOOooOOOooooOO fuuulll....$1#$b# I've never eaten anywhere near this much before.$4#$b# Normally I would of stopped ages ago...$4#$b# But sometimes I just get SO HungerYuhhhghhh... When Y...$9#$b#....OHHHhhHh!!$7#$b#% She struggles to put the last piece in her mouth. The sweet bar slips from her grasp, as it lands at her feet.#$b#% Suddenly her face turns beet red.#$b# NO, NO, NO, NO! It's not fair! OOOHHH I can't move, TOO FULL!$7#$b# I want it SOOO BAD! but I just can't reach!$7#$b#% She takes quick shallow breaths as she stares down at the vast expanding horrizon of her strained waistline.#$b#% Unable to move, She drops her arms to her sides with a look of defeat.#$b#% Taking her by surprise, You shove the last piece in her mouth. Holding her lips shut as she sucks.#$b#%  Her belly button pops out as the ground shakes.#$b# *crunch*OH YEESS! YES, YES ,YES YES!!!!!! $7#$b#% Her entire body trembles, every ounce of her being shakes.#$b#% Her body violently quakes as it strugles to take in the last piece.#$b# YES YES YESSS!$7#$b# Force my belly to stretch, make me gigantic! MORE FOOD, MORE FAT, MORE BELLY TO LOVE!$9#$b# I WANT TO BE THE BIGGEST! FATTEST, THE MOST THUNDEROUSLY HUGE GLUTTON, THIS WORLD HAS EVER SEEN!$9#$b#% The final swallow stretches her belly enough for it to contact with the cold ground.#$b#%  The entire earth quakes below, as Abigail's huge body trembles in extacy.#$b# AAAAGHGHGHGUHHHAAH!!! AHAHAHAHAHA AAAAAAHH! SO HUGE! SOOO HUUUGE!! $9#$b#% She continues to tremble wildly for another 10 seconds as she squeals in delight! Each of your rubs, coaxing her further and further.#$b#% She struggles to catch her breath.",
+	"6hearts.27": " OOOOOOOOOHH!! YES!! $9#$b#% Abigail intense session, had seemed to have made her body puff out even further. #$b#% Abiigail's titanic belly rests triumphantly atop her, spreading out in all her glory.#$b#% Abigail's bloated overstuffed form shines before you; A throughly polished monument of pure unbrideled gluttony.#$b# OooOOOOOOooooOOOo.... 5 pounds of chocolate ontop of a whole chicken...now THIS is a meal that hits the SPOT! $1#$b#  Seriously, words can't describe just how amazing I feel right now!$4#$b# I am just so full, I can't move! Too stuffed!!$9#$b#% Abigail closes her eyes. You continue carressing her mammoth belly as she moans and coos.#$b#Hahaha Now this is a true queen among bellies!$1#$b# Thank you @! You really bring out the glutton in me!$4#$b#  I feel safe knowing I can be myself around you!$1",
+	
+	//Mine\Cave event Event
+	"MixedDialogueMod.Abigail.10hearts.01.LargeLeah": "*sniff*$s",
+	"MixedDialogueMod.Abigail.10hearts.02.LargeLeah": "What happened?",
+	"MixedDialogueMod.Abigail.10hearts.03.LargeLeah": "Are you okay?",
+	"MixedDialogueMod.Abigail.10hearts.04.LargeLeah": "I've been keeping food here for a while to snack away from everyone...$2#$b#But today would be the day I enter the caves and find a swarm of bats flew over them. THEY'RE ruined! $3",
+	"MixedDialogueMod.Abigail.10hearts.05.LargeLeah": "...I can't keep doing this!!$8",
+	"MixedDialogueMod.Abigail.10hearts.06.LargeLeah": " Stashing food in the wild is too dangerous$7",
+	"MixedDialogueMod.Abigail.10hearts.07.LargeLeah": "You  can always snack at my place.",
+	"MixedDialogueMod.Abigail.10hearts.08.LargeLeah": "Maybe you should just stop snacking between meals.",
+	"MixedDialogueMod.Abigail.10hearts.09.LargeLeah": "You're crying like a little baby. Stop.",
+	"MixedDialogueMod.Abigail.10hearts.10.LargeLeah": "@, I... WE... I really like you... And not just as a friend. You know that, right?$l",
+	"MixedDialogueMod.Abigail.10hearts.11.LargeLeah": "I can't believe we're actually saying this... But we can't keep this in anymore.$0#$b# I never FEEL like just one person. I feel like two people who love eating. $4#$b# And I mean REALLY really love eating..$1",
+	"MixedDialogueMod.Abigail.10hearts.12.LargeLeah": " My Mom talks to me like I'm her daughter,$0#$b# but my Dad...talks at me, like I'm just some weird fat stranger.$2#$b# So I've always...felt like two entities in one body.$0#$b#  Mom talks to ME...$0#$b#and Dad...talks to Belly.$2.",
+	"MixedDialogueMod.Abigail.10hearts.13.LargeLeah": "Do you understand? I'm Belly and not, and Belly is me yet not!$2#$b# And when we're completely full, it's the only time I feel completely whole!$3#$b# I don't expect you too understand but$2#$b# ...Could you just stay here for a while$3#$b#...please? $3",
+	"MixedDialogueMod.Abigail.10hearts.14.LargeLeah": "% You kiss her plump lips.#$b# @... you do get me!$4#$b#% You then lift up her shirt and grab her belly with both arms and start to mold it, as you pepper her sagging middle with kisses.#$b# OH @! $7#$b# you REEEEAAALLLLYYYYY get me!!!$9",
+	
+	"MixedDialogueMod.Abigail.10hearts.01.FatPone": "*sniff*$s",
+	"MixedDialogueMod.Abigail.10hearts.02.FatPone": "What happened?",
+	"MixedDialogueMod.Abigail.10hearts.03.FatPone": "Are you okay?",
+	"MixedDialogueMod.Abigail.10hearts.04.FatPone": "You know I've been putting on weight for a while...$9#$b#It all started one day when I ate so much I felt full to bursting. It was around the time you got here, when I was skinny. $8#$b#The swelling of my stomach. There was just something about it...#$b#It didn't take a while for my originally taut body to... well... dissolve into fat...$l#$b#It didn't happen quickly, my metabolism kept me skinny for a good while.$l#$b#With all the gifts you kept bringing me however. That's not a lot I know but considering what I was eating I'm surprised I didn't gain 150...$l#$b#Just feeling myself, watching myself jiggle, finding new stretch-marks, seeing the development of my rolls.#$b#By the time I turned 20 I weighed maybe 250 pounds. Around this time my metabolism kinda... Well gave up.$l#$b#. My weight skyrocketed, I was tearing through clothes rapidly.I burst through shirts, skirts couldn't contain me, buttons could never stay attached to their clothes my bras rapidly grew tighter...#$b#And I loved every second of it...$l#$b#My parents began to freak. I gained almost 100 pounds in a single year at one point. I broke chairs, whenever I sit in a car the suspension all but screams...#$b#I have this dream of being so fat where I can't fit in here anymore. It sounds weird but it just... Turns me on... so much...%l",
+	"MixedDialogueMod.Abigail.10hearts.05.FatPone": "I don't know how I got this way but being fat is just... Everything to me... I love the way it feels, I love the way it moves and I love the way I look...$l#$b#But my parents just won't accept it. I'm afraid my dad doesn't even see me as his daughter anymore... *sniff* $s",
+	"MixedDialogueMod.Abigail.10hearts.06.FatPone": "I've suspected this for a while but you love this right? My fat? My Gaining? That's why you've been bringing me all those gifts of food? All those times I caught you staring. You want to fatten me yourself right?$8",
+	"MixedDialogueMod.Abigail.10hearts.07.FatPone": "Yeah. I wasn't sure how to bring this up to you but I'm glad you've caught on.",
+	"MixedDialogueMod.Abigail.10hearts.08.FatPone": "No? I think you misread the signals...",
+	"MixedDialogueMod.Abigail.10hearts.09.FatPone": "No? Who could ever want that? That's disgusting!",
+	"MixedDialogueMod.Abigail.10hearts.10.FatPone": "@, I... I really like you... And not just as a friend. You know that, right?$l",
+	"MixedDialogueMod.Abigail.10hearts.11.FatPone": "I can't believe I'm actually saying this... But I can't keep it in anymore. I've felt this way for a long time.$l",
+	"MixedDialogueMod.Abigail.10hearts.12.FatPone": "You don't have to say anything right now. Let's just stay here for a while...$l^I didn't know I felt this way about other girls... until I met you.",
+	
+	////////////////////////////////
+	//Abigail Festival Dialogue
+	////////////////////////////////
+	
+	//Egg Festival
+	"MixedDialogueMod.Abigail.Festival.Egg.Abigail_spouse.1": "Go away, we're adversaries until the egg hunt is over!$h#$e#I mean it, @! Don't try and tempt me with the buffet. This is the one day a year I won't eat myself into a food coma!#$e#%You decide not to say anything about the six plates of scotch eggs, egg-fried rice, and other eggy delectables she's already devoured.",
+	
+	"MixedDialogueMod.Abigail.Festival.Egg.Abigail.1": "Searching for eggs is like going on a treasure hunt.$h#$b#Why am I so excited? The purple ones are chocolate. Don't let Emily know I told you!",
+	"MixedDialogueMod.Abigail.Festival.Egg.Abigail.2": "Searching for eggs is like going on a treasure hunt.$h#$b#Why am I so excited? The purple ones are chocolate. Don't let Emily know I told you!#$b#%You see in Abigails eyes, a fire and desire for food which could seemingly never be stopped.",
+	
+	//Flower Festival
+	"MixedDialogueMod.Abigail.Festival.Flower.Abigail.1": "I really hate dancing in front of everyone... It's so embarrassing. No one needs to see me dripping with sweat.#$b#When I was seventeen years old, I breathed in too deeply and burst out of my dress in front of everyone. It was horrible.$s",
+	"MixedDialogueMod.Abigail.Festival.Flower.Abigail.2": "I really hate dancing in front of everyone... It's so embarrassing. No one needs to see me dripping with sweat.#$e#Mom makes me do it.$u#$b#When I was seventeen years old, I breathed in too deeply and burst out of my dress in front of everyone. It was horrible.$s#$e#Oh no... I think I may have had too much too eat...$7#$e#%You begin to hear a rapid tearing of invdividual threads. Abigail sucks her gut in and tries to grab where her dress started to tear in order to prevent it from tearing further.",
+	
+	//Luau
+	"MixedDialogueMod.Abigail.Festival.Luau.Abigail_spouse.1": "Phew! One more bite and I'll pop!$h#$e#Hey, honey... You know how much you love your growing Abby, right?$4#$b#Maybe she'd be able to eat more if you gave her a tummy rub? She's sooo full...$4",
+	"MixedDialogueMod.Abigail.Festival.Luau.Abigail_spouse.2": "Phew! One more bite and I'll pop!$h#$e#Hey, honey... You know how much you love your growing Abby, right?$4#$b#Maybe she'd be able to eat more if you gave her a tummy rub? She's sooo full...$4#$e#% You start rubbing Belly as she coos.#$b# Oh yeah...You know what my belly likes.$9#$b#% She continues to eat as you rub her already overstuffed pet.",
+	
+	"MixedDialogueMod.Abigail.Festival.Luau.Abigail.1": "Phew! One more bite and I'll pop!$h#$e#Give me ten minutes and I'll go back for fifths.",
+	
+	//Moonlight Jellies
+	"MixedDialogueMod.Abigail.Festival.Jellies.Abigail_spouse.1": "I overheard Marnie talking to the mayor the other day.#$b#She thinks I'm going to get too big for the dock soon.#$e#Isn't that exciting, @? What am I going to outgrow next?$4",
+	"MixedDialogueMod.Abigail.Festival.Jellies.Abigail.1": "Such a rare and exciting thing...#$e#%The pier creaks ominously whenever Abigail shifts her weight.",
+	
+	//Stardew Valley Fair
+	"MixedDialogueMod.Abigail.Festival.Fair.Abigail_spouse.1": "I desperately need a distraction. Please tell me our grange display has something I can nibble on.$s#$b#%Abigail looks exhausted from her listless pacing. She doesn't cope with hunger well.",
+	"MixedDialogueMod.Abigail.Festival.Fair.Abigail_spouse.2": "I desperately need a distraction. Please tell me our grange display has something I can nibble on.$s#$b#%Abigail looks exhausted from her listless pacing. She doesn't cope with hunger well.#$b#Do you think Marnie will let me have some of that giant cheese wheel...$l",
+	
+	"MixedDialogueMod.Abigail.Festival.Fair.Abigail.1": "Gus told me I can't have any more burgers.$s#$e#%Abigail's gut audibly sloshes from side to side as she waddles.",
+	
+	//Spirit's Eve
+	"MixedDialogueMod.Abigail.Festival.Spirit.Abigail_spouse.1": "You'll have to tell me what's beyond, I can't go on... spiders...$s#$e#Seriously, this isn't a ploy to get more pumpkin pie. I have a legitimate fear of those... things! *shudder*$s",
+	"MixedDialogueMod.Abigail.Festival.Spirit.Abigail_spouse.2": "You'll have to tell me what's beyond, I can't go on... spiders...$s#$e#Seriously, this isn't a ploy to get more pumpkin pie. I have a legitimate fear of those... things! *shudder*$s#$e#Also I umm... Can't physically fit much further $l",
+	
+	"MixedDialogueMod.Abigail.Festival.Spirit.Abigail.1": "I can't go on... spiders...$s#$e#%You notice that Abigail's pockets are overflowing with candy with a lot of empty candy wrappers at her feet.",	
+	"MixedDialogueMod.Abigail.Festival.Spirit.Abigail.2": "I can't go on... spiders...$s#$e#% Her entire body shakes and jiggles wildly as she trembles in fear. ",
+	
+	//Ice Festival
+	"MixedDialogueMod.Abigail.Festival.Ice.Abigail_spouse.1": "Hey, honey... look, it's you!$h#$e#Make me next! I wouldn't want snow-you to get lonely.#$b#What do you mean, \"there isn't enough snow\"?$h",
+	
+	"MixedDialogueMod.Abigail.Festival.Ice.Abigail.1": "What do you think of my snow-goon?#$e#@, you look freezing cold!#$b#Quick, cuddle me for warmth.$h",
+	"MixedDialogueMod.Abigail.Festival.Ice.Abigail.2": "What do you think of my snow-goon?#$e#@, you look freezing cold!#$b#Quick, cuddle me for warmth. I promise not to bite!$h",
+	
+	//Feast of the Winter Star
+	"MixedDialogueMod.Abigail.Festival.Feast.Abigail_spouse.1": "*munch*I wonder if *chomp* I could have *gulp* one of those canes *slurp* for dessert...#$b#%Abigail's going to town on the feast before her, eating like the world's about to end.#$b#%She's constantly shoveling food into her mouth with one hand. The other reaches out occasionally to load her plate.#$b#%A cacophony of noises are coming from the gorging girl:#$b#%Moans whenever she tastes a particularly flavorsome morsel...#$b#%Groans and gurgles from her overloaded stomach, stuffed to the brim and only getting fuller...#$b#%The stretching of her tight shirt and pants, struggling to contain her swelling frame...#$b#%You get the impression you're intruding upon a very intimate moment.#$b#%Her breathing's gotten deeper. So deep, in fact, you could even describe it as husky with an undertone of unbridled lust.#$b#%And Abigail's belly... it's so huge, so much bigger than you ever seen it before, and you could almost swear it's growing right in front of your very eyes.#$b#%Larger and larger, her gut pushes outwards with all the food she's packing into it.#$b#%She keeps eating...#$b#%A loud ping echos from down below, followed by Abigail's body seemingly surging outwards by a couple of inches in all directions.#$b#%You can only assume whatever was holding her waistband together gave up the ghost against the oncoming tide of Abigail.#$b#%The sounds of rips and tears reach your ears. Here and there, you can see her clothes split open. Fat rushes to bulge out of the openings.#$b#%With her mouth full of meat and vegetables, Abigail takes a moment to look up and shoot you a cheeky wink.#$b#%You take the hint and steathily kneel down next to your wife. You then tend to her swelling mass with tender kisses and caresses across her engorged middle to the tune of her delighted giggles.#$b#Mmm... I'm so glad I have you, @.$4#$e#I'm thankful for you, *nom* the farm, *chomp* and the infinite banquet my life has become. *gulp*$h?$h",
+	"MixedDialogueMod.Abigail.Festival.Feast.Abigail_spouse.2": "*munch*I wonder if *chomp* I could have *gulp* one of those canes *slurp* for dessert...#$b#%Abigail's going to town on the feast before her, eating like the world's about to end.#$b#%She's constantly shoveling food into her mouth with one hand. The other reaches out occasionally to load her plate.#$b#%A cacophony of noises are coming from the gorging girl:#$b#%Moans whenever she tastes a particularly flavorsome morsel...#$b#%Groans and gurgles from her overloaded stomach, stuffed to the brim and only getting fuller...#$b#%The stretching of her tight shirt and pants, struggling to contain her swelling frame...#$b#%You get the impression you're intruding upon a very intimate moment.#$b#%Her breathing's gotten deeper. So deep, in fact, you could even describe it as husky with an undertone of unbridled lust.#$b#%And Abigail's belly... it's so huge, so much bigger than you ever seen it before, and you could almost swear it's growing right in front of your very eyes.#$b#%Larger and larger, her gut pushes outwards with all the food she's packing into it.#$b#%She keeps eating...#$b#%A loud ping echos from down below, followed by Abigail's body seemingly surging outwards by a couple of inches in all directions.#$b#%You can only assume whatever was holding her waistband together gave up the ghost against the oncoming tide of Abigail.#$b#%The sounds of rips and tears reach your ears. Here and there, you can see her clothes split open. Fat rushes to bulge out of the openings.#$b#%With her mouth full of meat and vegetables, Abigail takes a moment to look up and shoot you a cheeky wink.#$b#%You take the hint and steathily kneel down next to your wife. You then tend to her Belly's swelling mass with tender kisses and caresses across her engorged pet to the tune of her delighted giggles.#$b#Mmm... I'm so glad we have you, @.$4#$b#I'm thankful for you, *nom* the farm, *chomp* and the infinite banquet my life has become. *gulp*$h",
+	"MixedDialogueMod.Abigail.Festival.Feast.Abigail_spouse.3": "*munch*I wonder if *chomp* I could have *gulp* one of those canes *slurp* for dessert...#$b#Mmm... I'm so glad I have you, @.$4#$e#I'm thankful for you, *nom* the farm, *chomp* and the infinite banquet my life has become. *gulp*$h?$h",
+	
+	"MixedDialogueMod.Abigail.Festival.Feast.Abigail.1": "*munch* Nothing like, *chomp* a neverending feast, *gulp* on a cold winter's day, *slurp* huh?$h#$b#%Abigail's going to town on the feast before her, eating like the world's about to end.#$b#%She's constantly shoveling food into her mouth with one hand. The other reaches out occasionally to load her plate.#$b#%A cacophony of noises are coming from the gorging girl:#$b#%Moans whenever she tastes a particularly flavorsome morsel...#$b#%Groans and gurgles from her overloaded stomach, stuffed to the brim and only getting fuller...#$b#%The stretching of her tight shirt and pants, struggling to contain her swelling frame...#$b#%You get the impression you're intruding upon a very intimate moment.#$b#%Her breathing's gotten deeper. So deep, in fact, you could even describe it as husky with an undertone of unbridled lust.#$b#%And Abigail's belly... it's so huge, so much bigger than you ever seen it before, and you could almost swear it's growing right in front of your very eyes.#$b#%Larger and larger, her gut pushes outwards with all the food she's packing into it.#$b#%She keeps eating...#$b#%A loud ping echos from down below, followed by Abigail's body seemingly surging outwards by a couple of inches in all directions.#$b#%You can only assume whatever was holding her waistband together gave up the ghost against the oncoming tide of Abigail.#$b#%The sounds of rips and tears reach your ears. Here and there, you can see her clothes split open. Fat rushes to swell out of the openings.#$b#%With her mouth full of meat and vegetables, Abigail takes a moment to look up and shoot you a cheeky wink.#$b#\"You decide it'd be best to leave before she notices the color in your cheeks.\"$4#$b#That's what you were thinking, right? Maybe you'll get to do more than just watch in the future.$4",
+	"MixedDialogueMod.Abigail.Festival.Feast.Abigail.2": "*munch* Nothing like, *chomp* a neverending feast, *gulp* on a cold winter's day, *slurp* huh?$h",
+	
+	////////////////////////////////
+	//Abigail Misc Dialogue
+	////////////////////////////////
+	
+	//Secret Note(s)
+	"MixedDialogueMod.Abigail.Secret_Notes.Abigail_Diary.1": "It's a page from Abigail's Diary^^'Things I love: the smell of carved pumpkin, keeping an amethyst under my pillow, chocolate cake, the thrill of spicy eel, the comfort of Mom's blackberry cobbler, and thick, creamy mayonnaise (I like to eat!)'%revealtasteAbigail276%revealtasteAbigail66%revealtasteAbigail220%revealtasteAbigail226%revealtasteAbigail306%revealtasteAbigail611",
+	
+	//Engagement Dialogue
+	"MixedDialogueMod.Abigail.Engagement.Abigail0.1": "...Me? ...Married? Man, I never expected that.$h#$e#We're going to have a lot of fun together, though.$h#$e#Just...don't expect me to lose weight for the wedding dress, okay?$l",
+	"MixedDialogueMod.Abigail.Engagement.Abigail0.2": "Hehe. Me? Married? I never thought this would happen.$h#$e#We're going to have a lot of fun together.$h#$e#There's a lot of food to be found on a farm after all, right?$l",
+	
+	"MixedDialogueMod.Abigail.Engagement.Abigail1.1": "I hope you'll keep bringing me the good stuff like you've been doing...$l#$e#You start serving me celery and junk, and it's a divorce right then and there, got it?$l",
+	"MixedDialogueMod.Abigail.Engagement.Abigail1.2": "I hope you'll continue to bring me food like you always have.$l#$e#I know that quite a few of these pounds are because of you.$l",
+	
+	////////////////////////////////
+	// Birthday Dialogue 
+	////////////////////////////////
+	
+	"MixedDialogueMod.Abigail.Birthday.spring_7_1.1": "It's the Mayor's birthday today!",
+	"MixedDialogueMod.Abigail.Birthday.spring_7_2.1": "It's the Mayor's birthday today!$e#I wonder if there will be cake?",
+	"MixedDialogueMod.Abigail.Birthday.spring_7_2.2": "It's the Mayor's birthday today!$e#I don't think he'll let me eat as much of his cake as last year...$s",
+	
+	"MixedDialogueMod.Abigail.Birthday.spring_14_1.1": "Oh, my mother's forcing me to buy a gift for Haley as it's her birthday.",
+	"MixedDialogueMod.Abigail.Birthday.spring_14_2.1": "I didn't want to but I bought chocolate for Haley.$e#Only because it's her birthday okay?",
+	"MixedDialogueMod.Abigail.Birthday.spring_14_2.2": "I didn't want to but I bought larger clothes for Haley.$e#Only because it's her birthday okay?",
+	
+	"MixedDialogueMod.Abigail.Birthday.spring_26_1.1": "It's my dad's birthday today.$e#He's never been one for big parties, but at least there will be cake!$h",
+	"MixedDialogueMod.Abigail.Birthday.spring_26_2.1": "I hope you remembered it's my dad's birthday today. He can be a bit of a jerk to me sometimes but it's not about me right now.",
+	"MixedDialogueMod.Abigail.Birthday.spring_26_2.2": "I hope you remembered it's my dad's birthday today.$e# I don't care too much to be honest but at least there's cake!$h",
+	
+	"MixedDialogueMod.Abigail.Birthday.summer_13_1.1": "Oh, it's Alex's Birthday hm?",
+	"MixedDialogueMod.Abigail.Birthday.summer_13_2.1": "Please don't remind me it's their birthday.$e#It just brings up bad memories...$s",
+	"MixedDialogueMod.Abigail.Birthday.summer_13_2.2": "Please don't remind me it's their birthday, I do not care for Alex.$e#Sorry, I guess the heat is getting to me.$s",
+	
+	"MixedDialogueMod.Abigail.Birthday.summer_17_1.1": "Hey, don't forget today is Sam's special day!$e#That means lots of goodies tonight!$h",
+	"MixedDialogueMod.Abigail.Birthday.summer_17_2.1": "Hey, don't forget today is Sam's special day!$e#Maybe we'll have a celebratory band session with lots of food tonight!$h",
+	"MixedDialogueMod.Abigail.Birthday.summer_17_2.2": "Hey, don't forget today is Sam's special day!$e#I am sure there will be lots to eat at the party tonight!$h",
+	
+	"MixedDialogueMod.Abigail.Birthday.fall_2_1.1": "Sam told me it's Penny's birthday. I forgot to get her something.",
+	"MixedDialogueMod.Abigail.Birthday.fall_2_2.1": "I promised myself to not forget Penny's birthday.$e#We should go say 'Happy Birthday' together.$e#Maybe she'll let me have some cake...$h",
+	"MixedDialogueMod.Abigail.Birthday.fall_2_2.2": "Me? Forget Penny's Birthday?$u#$e#Don't look surprised! I thought a larger top would be a nice fit for her!$k",
+	
+	////////////////////////////////
+	//Caroline Dialogue
+	////////////////////////////////
+	
+	//Main 
+	
+	"MixedDialogueMod.Caroline.spring_Mon.Yes.1": "I wish Abby wouldn't spend so much time in her room.#$b# She could do with some exercise.",
+	"MixedDialogueMod.Caroline.spring_Mon.Yes.2": "I wish Abby wouldn't spend so much time in her room.#$b# It's not good for her health.",
+	
+	"MixedDialogueMod.Caroline.spring_Sat2.Yes.1": "Abby's always had a strange interest in cooking shows. I'm not sure where she gets it from...",
+	"MixedDialogueMod.Caroline.Spring.Sat2.Yes.2": "Abby's always had a strange interest in food. I'm not sure where she gets it from...",
+	
+	"MixedDialogueMod.Caroline.spring_Sat4.Yes.1": "Abby's obsession with chocolate and sweets seems a little unhealthy don't you think?...",
+	"MixedDialogueMod.Caroline.spring_Sat4.Yes.2": "Abby's obsession with food seems a little unhealthy don't you think?...",
+	
+	"MixedDialogueMod.Caroline.winter_Sat.Yes.1": "Don't you think Abby looks better as a skinny girl?.#$e# I just want to make sure she's not making decisions that she will regret later on.",
+	"MixedDialogueMod.Caroline.winter_Sat.Yes.2": "Don't you think Abby looks better as a skinny girl?.#$e# Why are you looking at me like that?",
+  
+	
+	//InLaw 
+	"MixedDialogueMod.Caroline.InLaw.Mon.Abigail.Yes.1": "Hi, @. Are you enjoying the married life?#$b#I am sure keeping Abby fed is no small task!",
+	"MixedDialogueMod.Caroline.InLaw.Mon.Abigail.Yes.2": "Hi, @. Are you enjoying the married life?#$b#I know my Abby can be a bit of work to keep happy.",
+	
+	"MixedDialogueMod.Caroline.InLaw.Sat.Abigail.Yes.1": "Dinner's been a lot quieter since Abigail moved out...#$e#I now have a bad habit of accidentally making too much.$h",
+	"MixedDialogueMod.Caroline.InLaw.Sat.Abigail.Yes.2": "Dinner's been a lot quieter since Abigail moved out...#$e#Althought not having to make as much food sure is nice.$h",
+	
+	"MixedDialogueMod.Caroline.InLaw.summer_Sat.Abigail.Yes.1": "How's Abigail's health? She hasn't always been a big girl.#$e# Hopefully the farm lifestyle helps her lose a bit of weight, but knowing how easy you are on her I am doubtful.",
+	"MixedDialogueMod.Caroline.InLaw.summer_Sat.Abigail.Yes.2": "How is Abigail's health? She hasn't always been a big girl.#$e# She has become quite big since you first got here.",
+	
+	"MixedDialogueMod.Caroline.InLaw.fall_Sat.Abigail.Yes.1": "Abby was taking online classes here, but thinking about it now it probably was an excuse to stay inside...#$e#She's a free spirit, like I was before I met Pierre. She's probably having the time of her life on your farm.",
+	"MixedDialogueMod.Caroline.InLaw.fall_Sat.Abigail.Yes.2": "Abby was taking online classes here, but thinking about it now it probably was an excuse to stay inside...#$e#Staying inside playing video games and eating chocolate. I cannot imagine she is too much different now!",
+	
+	////////////////////////////////
+	//Pierre Dialogue
+	////////////////////////////////
+	
+	//Main 
+	
+	"MixedDialogueMod.Pierre.summer_Tue.Yes.1": "I'll never understand why Abigail likes to stay inside so much. It is absolutely lovely outside.",
+	"MixedDialogueMod.Pierre.summer_Tue.Yes.2": "If I wasn't so busy, I'd be outdoors. Summer is simply the best time of year.#$e#Although around here, that's a very controversial opinion.",
+	
+	"MixedDialogueMod.Pierre.summer_Sat.Yes.1": "Summer is a good time to eat a refreshing salad, don't you think?$b#I wish Abby would agree with me.$s#",
+	"MixedDialogueMod.Pierre.summer_Sat.Yes.2": "Summer is a good time to eat a refreshing salad, don't you think?$b#I could think of a couple people around here who could use a salad.$b#Not you of course!$u",
+	
+	"MixedDialogueMod.Pierre.winter_Sat.Yes.1": "Is it just me or is there a cold draft in here?",
+	"MixedDialogueMod.Pierre.winter_Sat.Yes.2": "Is it just me or does my family seem a little... 'jollier' if you will?",
+	
+	//Inlaw 
+	"MixedDialogueMod.Pierre.InLaw.Mon.Abigail.Yes.1": "Hello, er... Does Abigail look bigger than the last time I saw her?",
+	"MixedDialogueMod.Pierre.InLaw.Mon.Abigail.Yes.2": "Hello, er... Can I ask that you keep an eye on Abigail's weight for me?",
+	
+	"MixedDialogueMod.Pierre.InLaw.Mon4.Abigail.Yes.1": "Hello, er... I suppose you've been taking very good care of my daughter.$e#I've given up on trying to control her weight, neither of you need to worry about that anymore.",
+	"MixedDialogueMod.Pierre.InLaw.Mon4.Abigail.Yes.2": "Hi, how's Abigail doing? For better or worse the shop is very much not the same without her...$e#Although I will say, my profits have never looked so high!",
+}

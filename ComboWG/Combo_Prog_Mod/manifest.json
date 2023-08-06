@@ -1,0 +1,10 @@
+{
+  "Name": "Combo Prog Mod",
+  "Author": "Reven, Willsbam, CJ, Klok, Eggmaniac, Fishninja, BobotheHobo, Nevoki, Boongerer, Kinkyrun, Zolthair, Stardew Fatty Community",
+  "Version": "0.7.9",
+  "Description": "A progression mod to affect the whole Stardew Valley",
+  "UniqueID": "Reven.Combo_Prog_Mod",
+  "EntryDll": "Combo_Prog_Mod.dll",
+  "MinimumApiVersion": "3.18.2",
+  "UpdateKeys": []
+}
